@@ -1,0 +1,204 @@
+Question 0:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Owowa ___ wuailal-ep akia ik-e-k.
+Gloss (with missing item): village ___ be.hungry-SS.SEQ banana roast-PA-3s
+The English translation of this sentence is: `He went to the village, was hungry and roasted bananas.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A very typical feature in Papuan languages is a difference between final (\sectref{sec:3.8.3.4}) and medial verbs (\sectref{sec:3.8.3.5}). The former are finite verbs with full inflection for tense and subject number and person, and the most typical position for them is at the end of a declarative sentence. The medial verbs indicate whether the subject of a clause is the same as \REF{ex:1:x662}, or different from \REF{ex:1:x663}, that of the following clause. The same-subject forms also indicate whether the action of the second verb is simultaneous with that of the first verb, or sequential \REF{ex:1:x662} in relation to it. Medial clauses (\sectref{sec:8.2}) are coordinate with, but also dependent on, the following clause. Because of the existence and extensive use of medial clauses, temporal subordinate clauses (\sectref{sec:8.3.3.1}) are used very little in Mauwake.\footnote{Medial clauses in Papuan languages are often translated with temporal subordinate clauses in other languages, even if they are not subordinate in the original language.}
+A: word: or-op	 gloss: go-SS.SEQ
+B: word: p-or-op	 gloss: BPX-descend-SS.SEQ
+C: word: ir-ap	 gloss: come/go-SS.SEQ
+D: word: emeria	 gloss: woman
+Please only return the letter (A–D).
+
+Question 1:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Owowa or-op, ___ akia ik-e-k.
+Gloss (with missing item): village go-SS.SEQ ___ banana roast-PA-3s
+The English translation of this sentence is: `He went to the village, was hungry and roasted bananas.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A very typical feature in Papuan languages is a difference between final (\sectref{sec:3.8.3.4}) and medial verbs (\sectref{sec:3.8.3.5}). The former are finite verbs with full inflection for tense and subject number and person, and the most typical position for them is at the end of a declarative sentence. The medial verbs indicate whether the subject of a clause is the same as \REF{ex:1:x662}, or different from \REF{ex:1:x663}, that of the following clause. The same-subject forms also indicate whether the action of the second verb is simultaneous with that of the first verb, or sequential \REF{ex:1:x662} in relation to it. Medial clauses (\sectref{sec:8.2}) are coordinate with, but also dependent on, the following clause. Because of the existence and extensive use of medial clauses, temporal subordinate clauses (\sectref{sec:8.3.3.1}) are used very little in Mauwake.\footnote{Medial clauses in Papuan languages are often translated with temporal subordinate clauses in other languages, even if they are not subordinate in the original language.}
+A: word: wuailal-ep	 gloss: be.hungry-SS.SEQ
+B: word: wailal-ep	 gloss: be.hungry-SS.SEQ
+C: word: en-ep	 gloss: eat-SS.SEQ
+D: word: uruf-a-man=i	 gloss: see-PA-2p=QM
+Please only return the letter (A–D).
+
+Question 2:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ me um-o-k, wiowa onaiya ikiw-em-ik-eya. Olas=ke war-e-k.
+Gloss (with missing item): ___ not die-PA-3s spear with go-SS.SIM-be-2/3s.DS Olas=CF kill-PA-3s
+The English translation of this sentence is:`When I speared it, it didn't die, (but) as it was going with the spear Olas killed it.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A very typical feature in Papuan languages is a difference between final (\sectref{sec:3.8.3.4}) and medial verbs (\sectref{sec:3.8.3.5}). The former are finite verbs with full inflection for tense and subject number and person, and the most typical position for them is at the end of a declarative sentence. The medial verbs indicate whether the subject of a clause is the same as \REF{ex:1:x662}, or different from \REF{ex:1:x663}, that of the following clause. The same-subject forms also indicate whether the action of the second verb is simultaneous with that of the first verb, or sequential \REF{ex:1:x662} in relation to it. Medial clauses (\sectref{sec:8.2}) are coordinate with, but also dependent on, the following clause. Because of the existence and extensive use of medial clauses, temporal subordinate clauses (\sectref{sec:8.3.3.1}) are used very little in Mauwake.\footnote{Medial clauses in Papuan languages are often translated with temporal subordinate clauses in other languages, even if they are not subordinate in the original language.}
+A: word: mik-amkun	 gloss: spear-1s/p.DS
+B: word: on-amkun=ko	 gloss: do-1s/p.DS=NF
+C: word: ik-omkun	 gloss: be-1s/p.DS
+D: word: or-op	 gloss: go-SS.SEQ
+Please only return the letter (A–D).
+
+Question 3:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Owowa ___ wuailal-ep akia ik-e-k.
+Gloss (with missing item): village ___ be.hungry-SS.SEQ banana roast-PA-3s
+The English translation of this sentence is: `He went to the village, was hungry and roasted bananas.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A very typical feature in Papuan languages is a difference between final (\sectref{sec:3.8.3.4}) and medial verbs (\sectref{sec:3.8.3.5}). The former are finite verbs with full inflection for tense and subject number and person, and the most typical position for them is at the end of a declarative sentence. The medial verbs indicate whether the subject of a clause is the same as \REF{ex:1:x662}, or different from \REF{ex:1:x663}, that of the following clause. The same-subject forms also indicate whether the action of the second verb is simultaneous with that of the first verb, or sequential \REF{ex:1:x662} in relation to it. Medial clauses (\sectref{sec:8.2}) are coordinate with, but also dependent on, the following clause. Because of the existence and extensive use of medial clauses, temporal subordinate clauses (\sectref{sec:8.3.3.1}) are used very little in Mauwake.\footnote{Medial clauses in Papuan languages are often translated with temporal subordinate clauses in other languages, even if they are not subordinate in the original language.}
+A: word: or-op	 gloss: go-SS.SEQ
+B: word: p-or-op	 gloss: BPX-descend-SS.SEQ
+C: word: ir-ap	 gloss: come/go-SS.SEQ
+D: word: sira	 gloss: custom
+Please only return the letter (A–D).
+
+Question 4:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Owowa or-op, ___ akia ik-e-k.
+Gloss (with missing item): village go-SS.SEQ ___ banana roast-PA-3s
+The English translation of this sentence is: `He went to the village, was hungry and roasted bananas.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: A very typical feature in Papuan languages is a difference between final (\sectref{sec:3.8.3.4}) and medial verbs (\sectref{sec:3.8.3.5}). The former are finite verbs with full inflection for tense and subject number and person, and the most typical position for them is at the end of a declarative sentence. The medial verbs indicate whether the subject of a clause is the same as \REF{ex:1:x662}, or different from \REF{ex:1:x663}, that of the following clause. The same-subject forms also indicate whether the action of the second verb is simultaneous with that of the first verb, or sequential \REF{ex:1:x662} in relation to it. Medial clauses (\sectref{sec:8.2}) are coordinate with, but also dependent on, the following clause. Because of the existence and extensive use of medial clauses, temporal subordinate clauses (\sectref{sec:8.3.3.1}) are used very little in Mauwake.\footnote{Medial clauses in Papuan languages are often translated with temporal subordinate clauses in other languages, even if they are not subordinate in the original language.}
+A: word: wuailal-ep	 gloss: be.hungry-SS.SEQ
+B: word: wailal-ep	 gloss: be.hungry-SS.SEQ
+C: word: en-ep	 gloss: eat-SS.SEQ
+D: word: or-op	 gloss: go-SS.SEQ
+Please only return the letter (A–D).
+
+Question 5:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ emeria teeria nain
+Gloss (with missing item): ___ woman group that1
+The English translation of this sentence is: `that group of women'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textstyleEmphasizedWords{{noun phrase}} (\sectref{sec:4.1}) most commonly consists of the head noun by itself, or the morpheme ___th just one modifier. In a noun phrase a pluralizing \REF{ex:1:x658} unmarked pronoun, a possessive noun phrase, a temporal phrase, or a qualifier noun phrase may precede the head noun; all the other modifiers follow it. A possessive preceding the head noun and an adjective follothe morpheme ___ng it \REF{ex:1:x660} is quite common in Trans New Guinea languages \citep[19]{Reesink1987}.
+A: word: wi	 gloss: 3p.UNM
+B: word: wia	 gloss: 3p.ACC
+C: word: (yo/i)	 gloss: 1s/1p.UNM
+D: word: feenap	 gloss: like.this
+Please only return the letter (A–D).
+
+Question 6:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wi ___ teeria nain
+Gloss (with missing item): 3p.UNM ___ group that1
+The English translation of this sentence is: `that group of women'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textstyleEmphasizedWords{{noun phrase}} (\sectref{sec:4.1}) most commonly consists of the head noun by itself, or with just one modifier. In a noun phrase a pluralizing \REF{ex:1:x658} unmarked pronoun, a possessive noun phrase, a temporal phrase, or a qualifier noun phrase may precede the head noun; all the other modifiers follow it. A possessive preceding the head noun and an adjective following it \REF{ex:1:x660} is quite common in Trans New Guinea languages \citep[19]{Reesink1987}.
+A: word: emeria	 gloss: woman
+B: word: emeria=ko	 gloss: woman=NF
+C: word: emeria=ke	 gloss: woman=CF
+D: word: kamenap	 gloss: what.like
+Please only return the letter (A–D).
+
+Question 7:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ aamun gelemuta kuisow
+Gloss (with missing item): ___ 1s/p.younger.sibling small one
+The English translation of this sentence is:`my one younger brother' or `one of my younger brothers'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textstyleEmphasizedWords{{noun phrase}} (\sectref{sec:4.1}) most commonly consists of the head noun by itself, or with just one modifier. In a noun phrase a pluralizing \REF{ex:1:x658} unmarked pronoun, a possessive noun phrase, a temporal phrase, or a qualifier noun phrase may precede the head noun; all the other modifiers follow it. A possessive preceding the head noun and an adjective following it \REF{ex:1:x660} is quite common in Trans New Guinea languages \citep[19]{Reesink1987}.
+A: word: yena	 gloss: 1s.GEN
+B: word: yo/yena	 gloss: 1s.UNM/1s.GEN
+C: word: nena	 gloss: 2s.GEN
+D: word: mukuna	 gloss: fire
+Please only return the letter (A–D).
+
+Question 8:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): yena aamun ___ kuisow
+Gloss (with missing item): 1s.GEN 1s/p.younger.sibling ___ one
+The English translation of this sentence is:`my one younger brother' or `one of my younger brothers'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \textstyleEmphasizedWords{{noun phrase}} (\sectref{sec:4.1}) most commonly consists of the head noun by itself, or with just one modifier. In a noun phrase a pluralizing \REF{ex:1:x658} unmarked pronoun, a possessive noun phrase, a temporal phrase, or a qualifier noun phrase may precede the head noun; all the other modifiers follow it. A possessive preceding the head noun and an adjective following it \REF{ex:1:x660} is quite common in Trans New Guinea languages \citep[19]{Reesink1987}.
+A: word: gelemuta	 gloss: small
+B: word: gelemuta=ko	 gloss: little=NF
+C: word: liiwa	 gloss: little
+D: word: kamenap	 gloss: what.like
+Please only return the letter (A–D).
+
+Question 9:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Yo emeria efar ___
+Gloss (with missing item): 1s.UNM woman 1s.DAT ___
+The English translation of this sentence is:`Did you see my wife?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Concerning the following sentence level features Mauwake shows itself a typical \textsc{ov} language. The interrogative marker \textstyleStyleVernacularWordsItalic{-i} always occurs sentence-finally in polar questions \REF{ex:1:x672} (\sectref{sec:7.2.2}).
+A: word: uruf-a-man=i	 gloss: see-PA-2p=QM
+B: word: uruf-a-m	 gloss: see-PA-1s
+C: word: ekap-e-man=i	 gloss: come-PA-2p=QM
+D: word: nain	 gloss: that1
+Please only return the letter (A–D).
+
+Question 10:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ni sira ___ on-a-man?
+Gloss (with missing item): 2p.UNM custom ___ do-PA-2p
+The English translation of this sentence is:`What did you do?'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In non-polar, or content questions (\sectref{sec:7.2.1}), the question word or phrase is in the same position that would be occupied by the non-interrogative word or phrase in a statement~\REF{ex:1:x673}.
+A: word: kamenap	 gloss: what.like
+B: word: kamenion	 gloss: or.what
+C: word: saarik	 gloss: like
+D: word: yena	 gloss: 1s.GEN
+Please only return the letter (A–D).
+
+Question 11:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mua ___ feeke wia p-ekap-eka.
+Gloss (with missing item): man ___ here.CF 3p.ACC BPX-come-IMP.2p
+The English translation of this sentence is:`If you find the men, bring them here.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In complex sentences (\sectref{sec:8.3}), the subordinate clause usually comes before the main clause \REF{ex:1:x674}.
+A: word: imen-ap=na	 gloss: find-SS.SEQ=TP
+B: word: imen-ap=ko	 gloss: find-SS.SEQ=NF
+C: word: imen-ap	 gloss: find-SS.SEQ
+D: word: or-op	 gloss: go-SS.SEQ
+Please only return the letter (A–D).
+
+Question 12:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ kerer-e-k nain i me paayar-e-mik.
+Gloss (with missing item): ___ start-PA-3s that1 1p.UNM not understand-PA-1/3p
+The English translation of this sentence is:`We didn't realise that a fire had started.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complement clauses (\sectref{sec:8.3.2}) behave like other subordinate clauses, preceding the main clause \REF{ex:1:x675}.
+A: word: mukuna	 gloss: fire
+B: word: mukuna=ko	 gloss: fire=NF
+C: word: epia	 gloss: fire(wood)
+D: word: imen-ap=na	 gloss: find-SS.SEQ=TP
+Please only return the letter (A–D).
+
+Question 13:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mukuna ___ nain i me paayar-e-mik.
+Gloss (with missing item): fire ___ that1 1p.UNM not understand-PA-1/3p
+The English translation of this sentence is:`We didn't realise that a fire had started.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complement clauses (\sectref{sec:8.3.2}) behave like other subordinate clauses, preceding the main clause \REF{ex:1:x675}.
+A: word: kerer-e-k	 gloss: start-PA-3s
+B: word: kerer-e-mik	 gloss: appear-PA-1/3p
+C: word: ku-a-k	 gloss: build-PA-3s
+D: word: mukuna	 gloss: fire
+Please only return the letter (A–D).
+
+Question 14:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mukuna kerer-e-k ___ i me paayar-e-mik.
+Gloss (with missing item): fire start-PA-3s ___ 1p.UNM not understand-PA-1/3p
+The English translation of this sentence is:`We didn't realise that a fire had started.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Complement clauses (\sectref{sec:8.3.2}) behave like other subordinate clauses, preceding the main clause \REF{ex:1:x675}.
+A: word: nain	 gloss: that1
+B: word: nain=ko	 gloss: that1=NF
+C: word: eefin	 gloss: that2
+D: word: kamenap	 gloss: what.like
+Please only return the letter (A–D).
+
+Question 15:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Fikera nain ___ feenap on-a-mik.
+Gloss (with missing item): kunai.grass that1 ___ like.this do-PA-1/3p
+The English translation of this sentence is: `This is what they did to the \textstyleForeignWords{kunai} grass.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Both manner adverbs, postpositional phrases, and non-argument noun phrases precede the verb \REF{ex:1:x678}.
+A: word: sira	 gloss: custom
+B: word: sira=ke	 gloss: custom=CF
+C: word: sira-sira	 gloss: custom-custom
+D: word: kerer-e-k	 gloss: start-PA-3s
+Please only return the letter (A–D).
+
+Question 16:
+You are a linguist specializing in Mauwake. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Fikera nain sira ___ on-a-mik.
+Gloss (with missing item): kunai.grass that1 custom ___ do-PA-1/3p
+The English translation of this sentence is: `This is what they did to the \textstyleForeignWords{kunai} grass.'
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Both manner adverbs, postpositional phrases, and non-argument noun phrases precede the verb \REF{ex:1:x678}.
+A: word: feenap	 gloss: like.this
+B: word: feenap:	 gloss: like.this
+C: word: fain	 gloss: this
+D: word: sira	 gloss: custom
+Please only return the letter (A–D).
+

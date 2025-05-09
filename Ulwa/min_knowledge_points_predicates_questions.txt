@@ -1,0 +1,1080 @@
+Question 0:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tumbuna ala mbï-p-e ___ p-e ala anda=u
+Gloss (with missing item): grandparent PL.DIST here-be-DEP ___ be-DEP PL.DIST SG.DIST=from
+The English translation of this sentence is:`When the grandparents were here at Wopata they [went] from there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Locative clauses are indicated with the \isi{locative verb} p- ‘be, be at (be located at)’ (\sectref{sec:4.3}). The verb p- ‘be’ may be used to express \isi{location} at a place, whether permanent or temporary. The \isi{locative verb} p- ‘be’ can follow either proper \isi{place name}s \REF{ex:pred:1} or \isi{common noun} \isi{location}s \REF{ex:pred:2}.
+A: word: wopata	 gloss: [place]
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: luwa	 gloss: place
+D: word: unan=wali-nda	 gloss: 1PL.INCL=hit-IRR
+Please only return the letter (A–D).
+
+Question 1:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tumbuna ala mbï-p-e Wopata ___ ala anda=u
+Gloss (with missing item): grandparent PL.DIST here-be-DEP [place] ___ PL.DIST SG.DIST=from
+The English translation of this sentence is:`When the grandparents were here at Wopata they [went] from there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Locative clauses are indicated with the \isi{locative verb} p- ‘be, be at (be located at)’ (\sectref{sec:4.3}). The verb p- ‘be’ may be used to express \isi{location} at a place, whether permanent or temporary. The \isi{locative verb} p- ‘be’ can follow either proper \isi{place name}s \REF{ex:pred:1} or \isi{common noun} \isi{location}s \REF{ex:pred:2}.
+A: word: p-e	 gloss: be-DEP
+B: word: mbï-p-e	 gloss: here-be-DEP
+C: word: tïlwa=nï	 gloss: road=OBL
+D: word: p-ta	 gloss: be{-cond}
+Please only return the letter (A–D).
+
+Question 2:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): alum ala ndï wa lolop ala ___ p-e mundu ama-e
+Gloss (with missing item): child PL.DIST 3PL just just PL.DIST ___ be-DEP food eat-IPFV
+The English translation of this sentence is:`Those children -- they just, they’re just in the jungle eating food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Locative clauses are indicated with the \isi{locative verb} p- ‘be, be at (be located at)’ (\sectref{sec:4.3}). The verb p- ‘be’ may be used to express \isi{location} at a place, whether permanent or temporary. The \isi{locative verb} p- ‘be’ can follow either proper \isi{place name}s \REF{ex:pred:1} or \isi{common noun} \isi{location}s \REF{ex:pred:2}.
+A: word: wandam	 gloss: jungle
+B: word: wandam-p-e	 gloss: jungle=COP-DEP
+C: word: kekaka	 gloss: one.each
+D: word: la-nda	 gloss: eat-IRR
+Please only return the letter (A–D).
+
+Question 3:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): alum ala ndï wa lolop ala wandam ___ mundu ama-e
+Gloss (with missing item): child PL.DIST 3PL just just PL.DIST jungle ___ food eat-IPFV
+The English translation of this sentence is:`Those children -- they just, they’re just in the jungle eating food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Locative clauses are indicated with the \isi{locative verb} p- ‘be, be at (be located at)’ (\sectref{sec:4.3}). The verb p- ‘be’ may be used to express \isi{location} at a place, whether permanent or temporary. The \isi{locative verb} p- ‘be’ can follow either proper \isi{place name}s \REF{ex:pred:1} or \isi{common noun} \isi{location}s \REF{ex:pred:2}.
+A: word: p-e	 gloss: be-DEP
+B: word: mbï-p-e	 gloss: here-be-DEP
+C: word: ma=si	 gloss: 3SG.OBJ=push
+D: word: wap	 gloss: be.PST
+Please only return the letter (A–D).
+
+Question 4:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): uta nungol kwa ___ p-na
+Gloss (with missing item): bird child one ___ be-IRR
+The English translation of this sentence is:`[Not] one little bird will be [left] in the jungle!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The un\isi{inflect}ed form [p] may refer either to \isi{past} \isi{time} or to \isi{present} \isi{time}. With reference to \isi{location} in the \isi{future}, however, the \isi{locative verb}, as other verbs, typically receives the \isi{irrealis} \isi{suffix} -na ‘\textsc{irr}’ \REF{ex:pred:3}.
+A: word: wandam	 gloss: jungle
+B: word: wandam-p-e	 gloss: jungle=COP-DEP
+C: word: leobaha	 gloss: [name]
+D: word: wap	 gloss: be.PST
+Please only return the letter (A–D).
+
+Question 5:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): uta nungol kwa wandam ___
+Gloss (with missing item): bird child one jungle ___
+The English translation of this sentence is:`[Not] one little bird will be [left] in the jungle!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The un\isi{inflect}ed form [p] may refer either to \isi{past} \isi{time} or to \isi{present} \isi{time}. With reference to \isi{location} in the \isi{future}, however, the \isi{locative verb}, as other verbs, typically receives the \isi{irrealis} \isi{suffix} -na ‘\textsc{irr}’ \REF{ex:pred:3}.
+A: word: p-na	 gloss: be-IRR
+B: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+C: word: ta-na	 gloss: say-IRR
+D: word: ma=p-en	 gloss: 3SG.OBJ=be{-nmlz}
+Please only return the letter (A–D).
+
+Question 6:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ango kwe kuma wa ___
+Gloss (with missing item): NEG one some just ___
+The English translation of this sentence is:`Not just one or a few would be staying there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As with other verbs, the \isi{irrealis} \isi{suffix} encodes not only \isi{future} \isi{time} for the verb p- ‘be’, but also other non-real \isi{modal}ities, such as \isi{counterfactual}s \REF{ex:pred:4}.
+A: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+B: word: atuma=p-na	 gloss: older.brother=COP-IRR
+C: word: ma=kï-na	 gloss: 3SG.OBJ=say-IRR
+D: word: ulwa=p-en	 gloss: nothing=COP{-nmlz}
+Please only return the letter (A–D).
+
+Question 7:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ango kwe kuma wa ___
+Gloss (with missing item): NEG one some just ___
+The English translation of this sentence is:`Not just one or a few would be staying there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentence \REF{ex:pred:4} further illustrates how the \isi{locative verb} p- ‘be’ can be indexed with \isi{proclitic} \isi{object marker}s or \isi{deictic} forms. In some instances, it may perhaps even be considered a \isi{transitive} verb, taking as its object the place at which something is or was located. In such situations, the verb can be translated as ‘be located at’, ‘stay at’, ‘live at’, ‘reside at’, and so on. This function is illustrated by sentences \REF{ex:pred:5} through \REF{ex:pred:12}.
+A: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+B: word: atuma=p-na	 gloss: older.brother=COP-IRR
+C: word: ma=kï-na	 gloss: 3SG.OBJ=say-IRR
+D: word: lo-p-e	 gloss: go-PFV-DEP
+Please only return the letter (A–D).
+
+Question 8:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï ___ ma=p-e
+Gloss (with missing item): 3SG.SUBJ ___ 3SG.OBJ=be-IPFV
+The English translation of this sentence is:`She stayed in the village.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentence \REF{ex:pred:4} further illustrates how the \isi{locative verb} p- ‘be’ can be indexed with \isi{proclitic} \isi{object marker}s or \isi{deictic} forms. In some instances, it may perhaps even be considered a \isi{transitive} verb, taking as its object the place at which something is or the morpheme ___s located. In such situations, the verb can be translated as ‘be located at’, ‘stay at’, ‘live at’, ‘reside at’, and so on. This function is illustrated by sentences \REF{ex:pred:5} through \REF{ex:pred:12}.
+A: word: wa	 gloss: village
+B: word: wandam	 gloss: jungle
+C: word: u=iya	 gloss: 2SG=toward
+D: word: ulwa=p	 gloss: nothing=COP
+Please only return the letter (A–D).
+
+Question 9:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï wa ___
+Gloss (with missing item): 3SG.SUBJ village ___
+The English translation of this sentence is:`She stayed in the village.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentence \REF{ex:pred:4} further illustrates how the \isi{locative verb} p- ‘be’ can be indexed with \isi{proclitic} \isi{object marker}s or \isi{deictic} forms. In some instances, it may perhaps even be considered a \isi{transitive} verb, taking as its object the place at which something is or was located. In such situations, the verb can be translated as ‘be located at’, ‘stay at’, ‘live at’, ‘reside at’, and so on. This function is illustrated by sentences \REF{ex:pred:5} through \REF{ex:pred:12}.
+A: word: ma=p-e	 gloss: 3SG.OBJ=be-IPFV
+B: word: ma=p-en	 gloss: 3SG.OBJ=be{-nmlz}
+C: word: mbï-p-e	 gloss: here-be-DEP
+D: word: wopata	 gloss: [place]
+Please only return the letter (A–D).
+
+Question 10:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ase itom ala mïka ___ anda=p-e
+Gloss (with missing item): no father PL.DIST thus ___ SG.DIST=be-IPFV
+The English translation of this sentence is:`No, the fathers are in the house.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentence \REF{ex:pred:4} further illustrates how the \isi{locative verb} p- ‘be’ can be indexed with \isi{proclitic} \isi{object marker}s or \isi{deictic} forms. In some instances, it may perhaps even be considered a \isi{transitive} verb, taking as its object the place at which something is or was located. In such situations, the verb can be translated as ‘be located at’, ‘stay at’, ‘live at’, ‘reside at’, and so on. This function is illustrated by sentences \REF{ex:pred:5} through \REF{ex:pred:12}.
+A: word: apa	 gloss: house
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: apwanam	 gloss: side.of.house
+D: word: yata	 gloss: man
+Please only return the letter (A–D).
+
+Question 11:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ase itom ala mïka apa ___
+Gloss (with missing item): no father PL.DIST thus house ___
+The English translation of this sentence is:`No, the fathers are in the house.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Sentence \REF{ex:pred:4} further illustrates how the \isi{locative verb} p- ‘be’ can be indexed with \isi{proclitic} \isi{object marker}s or \isi{deictic} forms. In some instances, it may perhaps even be considered a \isi{transitive} verb, taking as its object the place at which something is or was located. In such situations, the verb can be translated as ‘be located at’, ‘stay at’, ‘live at’, ‘reside at’, and so on. This function is illustrated by sentences \REF{ex:pred:5} through \REF{ex:pred:12}.
+A: word: anda=p-e	 gloss: SG.DIST=be-IPFV
+B: word: anda=p-na	 gloss: SG.DIST=be-IRR
+C: word: na-i-na	 gloss: DETR-come-IRR
+D: word: suwol	 gloss: [name]
+Please only return the letter (A–D).
+
+Question 12:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tumbuna ala mbï-p-e ___ p-e ala anda=u
+Gloss (with missing item): grandparent PL.DIST here-be-DEP ___ be-DEP PL.DIST SG.DIST=from
+The English translation of this sentence is:`When the grandparents were here at Wopata they [went] from there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{locative verb} p- ‘be’ can take other verbal \isi{affix}ation, such as the \isi{dependent marker} -e ‘\textsc{dep}’, as exemplified in examples \REF{ex:pred:1} and \REF{ex:pred:2}. Examples \REF{ex:pred:13} and \REF{ex:pred:14} show p- ‘be’ with the \isi{conditional} marker -ta ‘\textsc{cond}’.
+A: word: wopata	 gloss: [place]
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: luwa	 gloss: place
+D: word: i-n-e	 gloss: come-PFV-DEP
+Please only return the letter (A–D).
+
+Question 13:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): tumbuna ala mbï-p-e Wopata ___ ala anda=u
+Gloss (with missing item): grandparent PL.DIST here-be-DEP [place] ___ PL.DIST SG.DIST=from
+The English translation of this sentence is:`When the grandparents were here at Wopata they [went] from there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{locative verb} p- ‘be’ can take other verbal \isi{affix}ation, such as the \isi{dependent marker} -e ‘\textsc{dep}’, as exemplified in examples \REF{ex:pred:1} and \REF{ex:pred:2}. Examples \REF{ex:pred:13} and \REF{ex:pred:14} show p- ‘be’ with the \isi{conditional} marker -ta ‘\textsc{cond}’.
+A: word: p-e	 gloss: be-DEP
+B: word: mbï-p-e	 gloss: here-be-DEP
+C: word: asa-p	 gloss: hit-PFV
+D: word: atuma=p	 gloss: older.brother=COP
+Please only return the letter (A–D).
+
+Question 14:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): alum ala ndï wa lolop ala ___ p-e mundu ama-e
+Gloss (with missing item): child PL.DIST 3PL just just PL.DIST ___ be-DEP food eat-IPFV
+The English translation of this sentence is:`Those children -- they just, they’re just in the jungle eating food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{locative verb} p- ‘be’ can take other verbal \isi{affix}ation, such as the \isi{dependent marker} -e ‘\textsc{dep}’, as exemplified in examples \REF{ex:pred:1} and \REF{ex:pred:2}. Examples \REF{ex:pred:13} and \REF{ex:pred:14} show p- ‘be’ with the \isi{conditional} marker -ta ‘\textsc{cond}’.
+A: word: wandam	 gloss: jungle
+B: word: wandam-p-e	 gloss: jungle=COP-DEP
+C: word: tïngïn=p-e	 gloss: many=COP-DEP
+D: word: nga=wat	 gloss: SG.PROX=atop
+Please only return the letter (A–D).
+
+Question 15:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): alum ala ndï wa lolop ala wandam ___ mundu ama-e
+Gloss (with missing item): child PL.DIST 3PL just just PL.DIST jungle ___ food eat-IPFV
+The English translation of this sentence is:`Those children -- they just, they’re just in the jungle eating food.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{locative verb} p- ‘be’ can take other verbal \isi{affix}ation, such as the \isi{dependent marker} -e ‘\textsc{dep}’, as exemplified in examples \REF{ex:pred:1} and \REF{ex:pred:2}. Examples \REF{ex:pred:13} and \REF{ex:pred:14} show p- ‘be’ with the \isi{conditional} marker -ta ‘\textsc{cond}’.
+A: word: p-e	 gloss: be-DEP
+B: word: mbï-p-e	 gloss: here-be-DEP
+C: word: wala	 gloss: far.off
+D: word: ma-na	 gloss: go-IRR
+Please only return the letter (A–D).
+
+Question 16:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï wa ___
+Gloss (with missing item): 3PL village ___
+The English translation of this sentence is:`If they were home …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{locative verb} p- ‘be’ can take other verbal \isi{affix}ation, such as the \isi{dependent marker} -e ‘\textsc{dep}’, as exemplified in examples \REF{ex:pred:1} and \REF{ex:pred:2}. Examples \REF{ex:pred:13} and \REF{ex:pred:14} show p- ‘be’ with the \isi{conditional} marker -ta ‘\textsc{cond}’.
+A: word: p-ta	 gloss: be-COND
+B: word: nga=p-ta	 gloss: SG.PROX=be{-cond}
+C: word: ansi	 gloss: red.buai
+D: word: ulwa=p	 gloss: nothing=COP
+Please only return the letter (A–D).
+
+Question 17:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): maka amba ___ ndï=la-nda ma-n
+Gloss (with missing item): thus mens.house ___ 3PL=eat-IRR go-IPFV
+The English translation of this sentence is:`… if [we] stay like this in the men’s house, then [we] are going to eat them.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{locative verb} p- ‘be’ can take other verbal \isi{affix}ation, such as the \isi{dependent marker} -e ‘\textsc{dep}’, as exemplified in examples \REF{ex:pred:1} and \REF{ex:pred:2}. Examples \REF{ex:pred:13} and \REF{ex:pred:14} show p- ‘be’ with the \isi{conditional} marker -ta ‘\textsc{cond}’.
+A: word: nga=p-ta	 gloss: SG.PROX=be-COND
+B: word: ma=p-ta	 gloss: 3SG.OBJ=be-COND
+C: word: ma=kali	 gloss: 3SG.OBJ=send
+D: word: wap	 gloss: be.PST
+Please only return the letter (A–D).
+
+Question 18:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a nïplopa im in p-e wandam ___
+Gloss (with missing item): INTERJ flying.fox tree in be-DEP jungle ___
+The English translation of this sentence is:`Ah, there are [still] flying foxes in the trees in the jungle.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is also possible for p- ‘be’ to take the \isi{nominalizing} \isi{suffix} -en ‘\textsc{nmlz}’. The force of the \isi{nominalization} is not always felt \REF{ex:pred:15}.
+A: word: p-en	 gloss: be-NMLZ
+B: word: ma=p-en	 gloss: 3SG.OBJ=be{-nmlz}
+C: word: na-ta-n	 gloss: DETR-say-IPFV
+D: word: ma=p	 gloss: 3SG.OBJ=be
+Please only return the letter (A–D).
+
+Question 19:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): a nïplopa im in p-e wandam ___
+Gloss (with missing item): INTERJ flying.fox tree in be-DEP jungle ___
+The English translation of this sentence is:`Ah, there are [still] flying foxes in the trees in the jungle.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:pred:15} further illustrates the use of the \isi{locative verb} in combination with a \isi{postpositional phrase} (here, with the \isi{postposition} in ‘in’). Further examples of \isi{locative predication} with \isi{spatial postposition}s are given in \REF{ex:pred:16}, \REF{ex:pred:17}, and \REF{ex:pred:18}.
+A: word: p-en	 gloss: be-NMLZ
+B: word: ma=p-en	 gloss: 3SG.OBJ=be{-nmlz}
+C: word: na-kuk-aw-e	 gloss: DETR-gather-put.IPFV-DEP
+D: word: nga=p-ta	 gloss: SG.PROX=be{-cond}
+Please only return the letter (A–D).
+
+Question 20:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nïtet nïmal ___ ma=p-en ndï ma-nji wo
+Gloss (with missing item): [place] river ___ 3SG.OBJ=be-NMLZ 3PL 3SG.OBJ-POSS own
+The English translation of this sentence is:`Those [palms] that are next to Nïtet river are her very own.’\footnote{This example additionally illustrates the use of the \isi{nominalizing} \isi{suffix} -en ‘NMLZ’.} [ulwa037_42:24]’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:pred:15} further illustrates the use of the \isi{locative verb} in combination with a \isi{postpositional phrase} (here, with the \isi{postposition} in ‘in’). Further examples of \isi{locative predication} with \isi{spatial postposition}s are given in \REF{ex:pred:16}, \REF{ex:pred:17}, and \REF{ex:pred:18}.
+A: word: kanam	 gloss: beside
+B: word: kana	 gloss: beside
+C: word: angani	 gloss: behind
+D: word: wapata=p-ta	 gloss: dry=COP-COND
+Please only return the letter (A–D).
+
+Question 21:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nïtet nïmal kanam ___ ndï ma-nji wo
+Gloss (with missing item): [place] river beside ___ 3PL 3SG.OBJ-POSS own
+The English translation of this sentence is:`Those [palms] that are next to Nïtet river are her very own.’\footnote{This example additionally illustrates the use of the \isi{nominalizing} \isi{suffix} -en ‘NMLZ’.} [ulwa037_42:24]’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:pred:15} further illustrates the use of the \isi{locative verb} in combination with a \isi{postpositional phrase} (here, with the \isi{postposition} in ‘in’). Further examples of \isi{locative predication} with \isi{spatial postposition}s are given in \REF{ex:pred:16}, \REF{ex:pred:17}, and \REF{ex:pred:18}.
+A: word: ma=p-en	 gloss: 3SG.OBJ=be-NMLZ
+B: word: ma=p-e	 gloss: 3SG.OBJ=be{-dep}
+C: word: ama-e	 gloss: eat-IPFV
+D: word: i-e	 gloss: go.PFV-DEP
+Please only return the letter (A–D).
+
+Question 22:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): way mï min=n twa ___ ma=p
+Gloss (with missing item): turtle 3SG.SUBJ 3DU=OBL hearth ___ 3SG.OBJ=be
+The English translation of this sentence is:`The turtle stayed there with them next to the hearth.’\footnote{Sentences such as \REF{ex:pred:16} and \REF{ex:pred:17}, which contain the \isi{object marker} ma= ‘3SG.OBJ’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:pred:15} further illustrates the use of the \isi{locative verb} in combination with a \isi{postpositional phrase} (here, with the \isi{postposition} in ‘in’). Further examples of \isi{locative predication} with \isi{spatial postposition}s are given in \REF{ex:pred:16}, \REF{ex:pred:17}, and \REF{ex:pred:18}.
+A: word: kana	 gloss: beside
+B: word: kanam	 gloss: beside
+C: word: angani	 gloss: behind
+D: word: ma=p-ta	 gloss: 3SG.OBJ=be-COND
+Please only return the letter (A–D).
+
+Question 23:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): way mï min=n twa kana ___
+Gloss (with missing item): turtle 3SG.SUBJ 3DU=OBL hearth beside ___
+The English translation of this sentence is:`The turtle stayed there with them next to the hearth.’\footnote{Sentences such as \REF{ex:pred:16} and \REF{ex:pred:17}, which contain the \isi{object marker} ma= ‘3SG.OBJ’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:pred:15} further illustrates the use of the \isi{locative verb} in combination with a \isi{postpositional phrase} (here, with the \isi{postposition} in ‘in’). Further examples of \isi{locative predication} with \isi{spatial postposition}s are given in \REF{ex:pred:16}, \REF{ex:pred:17}, and \REF{ex:pred:18}.
+A: word: ma=p	 gloss: 3SG.OBJ=be
+B: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+C: word: ma=ta	 gloss: 3SG.OBJ=say
+D: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+Please only return the letter (A–D).
+
+Question 24:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango un=ul ini ___ p-na
+Gloss (with missing item): 1SG NEG 2PL=with ground ___ be-IRR
+The English translation of this sentence is:`I will not live on this land with you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:pred:15} further illustrates the use of the \isi{locative verb} in combination with a \isi{postpositional phrase} (here, with the \isi{postposition} in ‘in’). Further examples of \isi{locative predication} with \isi{spatial postposition}s are given in \REF{ex:pred:16}, \REF{ex:pred:17}, and \REF{ex:pred:18}.
+A: word: nga=wat	 gloss: this.SG=atop
+B: word: nga=wat-aw-e	 gloss: SG.PROX=atop-put.IPFV-DEP
+C: word: lop	 gloss: lie
+D: word: rabaul	 gloss: [place]
+Please only return the letter (A–D).
+
+Question 25:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ango un=ul ini nga=wat ___
+Gloss (with missing item): 1SG NEG 2PL=with ground this.SG=atop ___
+The English translation of this sentence is:`I will not live on this land with you.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:pred:15} further illustrates the use of the \isi{locative verb} in combination with a \isi{postpositional phrase} (here, with the \isi{postposition} in ‘in’). Further examples of \isi{locative predication} with \isi{spatial postposition}s are given in \REF{ex:pred:16}, \REF{ex:pred:17}, and \REF{ex:pred:18}.
+A: word: p-na	 gloss: be-IRR
+B: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+C: word: ta-na	 gloss: say-IRR
+D: word: ndï=na-nda	 gloss: 3PL=give-IRR
+Please only return the letter (A–D).
+
+Question 26:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nïtet nïmal ___ ma=p-en ndï ma-nji wo
+Gloss (with missing item): [place] river ___ 3SG.OBJ=be-NMLZ 3PL 3SG.OBJ-POSS own
+The English translation of this sentence is:`Those [palms] that are next to Nïtet river are her very own.’\footnote{This example additionally illustrates the use of the \isi{nominalizing} \isi{suffix} -en ‘NMLZ’.} [ulwa037_42:24]’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \glt `The turtle stayed there with them next to the hearth.’\footnote{Sentences such as \REF{ex:pred:16} and \REF{ex:pred:17}, which contain the \isi{object marker} ma= ‘\textsc{3sg.obj}’ following the \isi{postposition} \textit{kana {\textasciitilde} the morpheme ___} ‘its gloss ___’, are perhaps better translated as ‘there its gloss ___ …’ or ‘there next to …’.} [ulwa006_06:09]
+A: word: kanam	 gloss: beside
+B: word: kana	 gloss: beside
+C: word: angani	 gloss: behind
+D: word: ma=p-ta	 gloss: 3SG.OBJ=be-COND
+Please only return the letter (A–D).
+
+Question 27:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Nïtet nïmal kanam ___ ndï ma-nji wo
+Gloss (with missing item): [place] river beside ___ 3PL 3SG.OBJ-POSS own
+The English translation of this sentence is:`Those [palms] that are next to Nïtet river are her very own.’\footnote{This example additionally illustrates the use of the \isi{nominalizing} \isi{suffix} -en ‘NMLZ’.} [ulwa037_42:24]’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \glt `The turtle stayed there with them next to the hearth.’\footnote{Sentences such as \REF{ex:pred:16} and \REF{ex:pred:17}, which contain the \isi{object marker} ma= ‘\textsc{3sg.obj}’ following the \isi{postposition} \textit{kana {\textasciitilde} kanam} ‘beside’, are perhaps better translated as ‘there beside …’ or ‘there next to …’.} [ulwa006_06:09]
+A: word: ma=p-en	 gloss: 3SG.OBJ=be-NMLZ
+B: word: ma=p-e	 gloss: 3SG.OBJ=be{-dep}
+C: word: na-top-in-ka	 gloss: DETR-throw-in-let
+D: word: kana	 gloss: beside
+Please only return the letter (A–D).
+
+Question 28:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): way mï min=n twa ___ ma=p
+Gloss (with missing item): turtle 3SG.SUBJ 3DU=OBL hearth ___ 3SG.OBJ=be
+The English translation of this sentence is:`The turtle stayed there with them next to the hearth.’\footnote{Sentences such as \REF{ex:pred:16} and \REF{ex:pred:17}, which contain the \isi{object marker} ma= ‘3SG.OBJ’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \glt `The turtle stayed there with them next to the hearth.’\footnote{Sentences such as \REF{ex:pred:16} and \REF{ex:pred:17}, which contain the \isi{object marker} ma= ‘\textsc{3sg.obj}’ following the \isi{postposition} \textit{the morpheme ___ {\textasciitilde} the morpheme ___m} ‘its gloss ___’, are perhaps better translated as ‘there its gloss ___ …’ or ‘there next to …’.} [ulwa006_06:09]
+A: word: kana	 gloss: beside
+B: word: kanam	 gloss: beside
+C: word: angani	 gloss: behind
+D: word: wutota	 gloss: tall
+Please only return the letter (A–D).
+
+Question 29:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): way mï min=n twa kana ___
+Gloss (with missing item): turtle 3SG.SUBJ 3DU=OBL hearth beside ___
+The English translation of this sentence is:`The turtle stayed there with them next to the hearth.’\footnote{Sentences such as \REF{ex:pred:16} and \REF{ex:pred:17}, which contain the \isi{object marker} ma= ‘3SG.OBJ’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: \glt `The turtle stayed there with them next to the hearth.’\footnote{Sentences such as \REF{ex:pred:16} and \REF{ex:pred:17}, which contain the \isi{object marker} ma= ‘\textsc{3sg.obj}’ following the \isi{postposition} \textit{kana {\textasciitilde} kanam} ‘beside’, are perhaps better translated as ‘there beside …’ or ‘there next to …’.} [ulwa006_06:09]
+A: word: ma=p	 gloss: 3SG.OBJ=be
+B: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+C: word: ma=ta	 gloss: 3SG.OBJ=say
+D: word: anda=p-e	 gloss: SG.DIST=be{-dep}
+Please only return the letter (A–D).
+
+Question 30:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): anmoka ndï wandam ___
+Gloss (with missing item): snake 3PL jungle ___
+The English translation of this sentence is:`There are snakes in the jungle.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The distinction between \isi{locative predication} and \isi{existential predication} is often not clear in Ulwa, since there are no formal distinctions between the two constructions. Like \isi{locative predication}, \isi{existential predication} can be expressed with the \isi{locative verb} p- ‘be’, as in \REF{ex:pred:19}, \REF{ex:pred:20}, and \REF{ex:pred:21}.
+A: word: ma=p	 gloss: 3SG.OBJ=be
+B: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+C: word: ma=ta	 gloss: 3SG.OBJ=say
+D: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+Please only return the letter (A–D).
+
+Question 31:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): inim mï ini ma=wat ___
+Gloss (with missing item): water 3SG.SUBJ ground 3SG.OBJ=atop ___
+The English translation of this sentence is:`There is water on the ground.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The distinction between \isi{locative predication} and \isi{existential predication} is often not clear in Ulwa, since there are no formal distinctions between the two constructions. Like \isi{locative predication}, \isi{existential predication} can be expressed with the \isi{locative verb} p- ‘be’, as in \REF{ex:pred:19}, \REF{ex:pred:20}, and \REF{ex:pred:21}.
+A: word: p-e	 gloss: be{-ipfv}
+B: word: mbï-p-e	 gloss: here-be-DEP
+C: word: ndï=n	 gloss: 3PL=OBL
+D: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+Please only return the letter (A–D).
+
+Question 32:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wanmbi ani ___ u ma=tï nï=na-ta nï ansi la-n[da]
+Gloss (with missing item): daka bilum ___ 2SG 3SG.OBJ=TAKE 1SG=give-COND 1SG red.buai eat-IRR
+The English translation of this sentence is:`If there is daka [= betel pepper] in [your] bilum [= string bag], [then] give it to me so I can chew red buai [= betel nut].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The distinction between \isi{locative predication} and \isi{existential predication} is often not clear in Ulwa, since there are no formal distinctions between the two constructions. Like \isi{locative predication}, \isi{existential predication} can be expressed with the \isi{locative verb} p- ‘be’, as in \REF{ex:pred:19}, \REF{ex:pred:20}, and \REF{ex:pred:21}.
+A: word: ma=p-ta	 gloss: 3SG.OBJ=be{-cond}
+B: word: anma=p-ta	 gloss: good=COP-COND
+C: word: ma=nambït-wana	 gloss: 3SG.OBJ=odor-feel
+D: word: kanam	 gloss: beside
+Please only return the letter (A–D).
+
+Question 33:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): inim mï ini ma=wat ___
+Gloss (with missing item): water 3SG.SUBJ ground 3SG.OBJ=atop ___
+The English translation of this sentence is:`There is water on the ground.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Often context alone can determine whether a \isi{copula}r \isi{suffix} is being used in an existential construction or a \isi{locative} construction. Thus, for example, a sentence such as \REF{ex:pred:20} could be interpreted as meaning ‘the water is on the ground’ as well as ‘there is water on the ground’.
+A: word: p-e	 gloss: be{-ipfv}
+B: word: mbï-p-e	 gloss: here-be-DEP
+C: word: ndï=uta-na	 gloss: 3PL=grind-IRR
+D: word: ma=p	 gloss: 3SG.OBJ=be
+Please only return the letter (A–D).
+
+Question 34:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï amun=p-e ___
+Gloss (with missing item): 3SG.SUBJ now=COP-DEP ___
+The English translation of this sentence is:`He is still there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The verb p- ‘be’ (or the \isi{copular enclitic} =p ‘\textsc{cop}’) may be used with \isi{temporal adverb}s or nouns as well, here having a \isi{temporal}, rather than a spatial meaning, as in the expression amunpe ‘still’ in \REF{ex:pred:10}. This can be understood as having the literal meaning ‘being at now’. See \sectref{sec:8.2.1} for more examples of \isi{temporal} expressions. The special \isi{past}-\isi{tense} form of the \isi{locative verb} (wap ‘be.\textsc{pst}’) is discussed in \sectref{sec:10.4}.
+A: word: anda=p-e	 gloss: SG.DIST=be-IPFV
+B: word: anda=p-na	 gloss: SG.DIST=be-IRR
+C: word: ni-e	 gloss: act-IPFV
+D: word: ambi=p	 gloss: big=COP
+Please only return the letter (A–D).
+
+Question 35:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Mongima mï ___
+Gloss (with missing item): [name] 3SG.SUBJ ___
+The English translation of this sentence is:`Mongima is a man.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Aside from \isi{locational predication}, which requires the \isi{locative verb} p- {\textasciitilde} wap ‘be’, \isi{non-verbal predication} (as well as other \isi{non-verbal clause} constructions) can be expressed without any overt verbal marking. Thus, Ulwa can be said to allow \isi{zero copula} constructions (see \sectref{sec:10.3}, however, for the use of a \isi{copular enclitic}). For example, \is{classificational clause} classificational, \is{identificational clause} identificational, or \is{equational clause} equational (or \is{equative clause} equative) clauses may all be expressed by simply \isi{juxtaposing} two NPs without any marking, as in examples \REF{ex:pred:22} through \REF{ex:pred:27}. See also example \REF{ex:det:159} in \sectref{sec:7.3}.
+A: word: yata	 gloss: man
+B: word: wopata	 gloss: [place]
+C: word: itom	 gloss: father
+D: word: unan=wali-nda	 gloss: 1PL.INCL=hit-IRR
+Please only return the letter (A–D).
+
+Question 36:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ngata yeta mï ___
+Gloss (with missing item): grand man 3SG.SUBJ ___
+The English translation of this sentence is:`The male ancestor was Suwol.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Aside from \isi{locational predication}, which requires the \isi{locative verb} p- {\textasciitilde} wap ‘be’, \isi{non-verbal predication} (as well as other \isi{non-verbal clause} constructions) can be expressed without any overt verbal marking. Thus, Ulwa can be said to allow \isi{zero copula} constructions (see \sectref{sec:10.3}, however, for the use of a \isi{copular enclitic}). For example, \is{classificational clause} classificational, \is{identificational clause} identificational, or \is{equational clause} equational (or \is{equative clause} equative) clauses may all be expressed by simply \isi{juxtaposing} two NPs without any marking, as in examples \REF{ex:pred:22} through \REF{ex:pred:27}. See also example \REF{ex:det:159} in \sectref{sec:7.3}.
+A: word: suwol	 gloss: [name]
+B: word: wolka	 gloss: again
+C: word: sinanam	 gloss: {[name]}
+D: word: ma-na-ta	 gloss: go-IRR-COND
+Please only return the letter (A–D).
+
+Question 37:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Ambwat ___ Monde
+Gloss (with missing item): Kambot ___ [name]
+The English translation of this sentence is:`The Kambot people’s [ancestor] was Monde.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Aside from \isi{locational predication}, which requires the \isi{locative verb} p- {\textasciitilde} wap ‘be’, \isi{non-verbal predication} (as well as other \isi{non-verbal clause} constructions) can be expressed without any overt verbal marking. Thus, Ulwa can be said to allow \isi{zero copula} constructions (see \sectref{sec:10.3}, however, for the use of a \isi{copular enclitic}). For example, \is{classificational clause} classificational, \is{identificational clause} identificational, or \is{equational clause} equational (or \is{equative clause} equative) clauses may all be expressed by simply \isi{juxtaposing} two NPs without any marking, as in examples \REF{ex:pred:22} through \REF{ex:pred:27}. See also example \REF{ex:det:159} in \sectref{sec:7.3}.
+A: word: ala-nji	 gloss: PL.DIST-POSS
+B: word: ambla-nji	 gloss: PL.REFL-POSS
+C: word: numïne	 gloss: ditch
+D: word: wutota	 gloss: tall
+Please only return the letter (A–D).
+
+Question 38:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kowe mï ___
+Gloss (with missing item): [name] 3SG.SUBJ ___
+The English translation of this sentence is:`Kowe is tall.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly, \isi{attributive clause}s (or \isi{attributional clause}s) can be formed by placing the property-denoting \isi{phrase} (i.e., the \isi{predicate adjective}) immediately after the subject NP, without any special marking, as in \REF{ex:pred:28} and \REF{ex:pred:29}.
+A: word: wutota	 gloss: tall
+B: word: wutï	 gloss: leg
+C: word: ambi	 gloss: big
+D: word: rabaul	 gloss: [place]
+Please only return the letter (A–D).
+
+Question 39:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kowe mï ___ wutota
+Gloss (with missing item): [name] 3SG.SUBJ ___ tall
+The English translation of this sentence is:`Kowe is very tall.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly, \isi{attributive clause}s (or \isi{attributional clause}s) can be formed by placing the property-denoting \isi{phrase} (i.e., the \isi{predicate adjective}) immediately after the subject NP, without any special marking, as in \REF{ex:pred:28} and \REF{ex:pred:29}.
+A: word: apka	 gloss: very
+B: word: ipka	 gloss: before
+C: word: luke	 gloss: too
+D: word: ma=wap-e	 gloss: 3SG.OBJ=be.PST-DEP
+Please only return the letter (A–D).
+
+Question 40:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kowe mï apka ___
+Gloss (with missing item): [name] 3SG.SUBJ very ___
+The English translation of this sentence is:`Kowe is very tall.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similarly, \isi{attributive clause}s (or \isi{attributional clause}s) can be formed by placing the property-denoting \isi{phrase} (i.e., the \isi{predicate adjective}) immediately after the subject NP, without any special marking, as in \REF{ex:pred:28} and \REF{ex:pred:29}.
+A: word: wutota	 gloss: tall
+B: word: wutï	 gloss: leg
+C: word: ambi	 gloss: big
+D: word: ala-nji	 gloss: PL.DIST{-poss}
+Please only return the letter (A–D).
+
+Question 41:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Alimban ma-nji ___ watangïnila
+Gloss (with missing item): [name] 3SG.OBJ-POSS ___ four
+The English translation of this sentence is:`Alimban has four sons.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive predicates \is{possessive predication} can likewise be expressed without any marking. There is no verb like the \ili{English} verb have in Ulwa. Rather, the \isi{possessed} item is simply predicated of the person who possesses it. The \isi{possessor} is indicated by the \isi{possessive pronoun}. Thus, predicative \isi{possession} is expressed with the \isi{possessum} as the single argument of a \isi{monotransitive} clause; the \isi{possessor} is treated just like any \isi{adnominal possessor} in a possessive NP (i.e., it precedes the \isi{head noun}, \sectref{sec:9.1.5}). In examples \REF{ex:pred:30} through \REF{ex:pred:33}, the \isi{possessum} is indicated in \textbf{bold}.
+A: word: yeta	 gloss: man
+B: word: yetani	 gloss: Yamen
+C: word: itom	 gloss: father
+D: word: lo-p-e	 gloss: go-PFV-DEP
+Please only return the letter (A–D).
+
+Question 42:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Alimban ma-nji yeta ___
+Gloss (with missing item): [name] 3SG.OBJ-POSS man ___
+The English translation of this sentence is:`Alimban has four sons.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive predicates \is{possessive predication} can likewise be expressed without any marking. There is no verb like the \ili{English} verb have in Ulwa. Rather, the \isi{possessed} item is simply predicated of the person who possesses it. The \isi{possessor} is indicated by the \isi{possessive pronoun}. Thus, predicative \isi{possession} is expressed with the \isi{possessum} as the single argument of a \isi{monotransitive} clause; the \isi{possessor} is treated just like any \isi{adnominal possessor} in a possessive NP (i.e., it precedes the \isi{head noun}, \sectref{sec:9.1.5}). In examples \REF{ex:pred:30} through \REF{ex:pred:33}, the \isi{possessum} is indicated in \textbf{bold}.
+A: word: watangïnila	 gloss: four
+B: word: atana	 gloss: older.sister
+C: word: angay	 gloss: five
+D: word: ma-na	 gloss: go-IRR
+Please only return the letter (A–D).
+
+Question 43:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Leobaha min min-nji ___ anda-awa
+Gloss (with missing item): [name] 3DU 3DU-POSS ___ SG.DIST{-int}
+The English translation of this sentence is:`Leobaha [and another child] had their own pots.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive predicates \is{possessive predication} can likewise be expressed without any marking. There is no verb like the \ili{English} verb have in Ulwa. Rather, the \isi{possessed} item is simply predicated of the person who possesses it. The \isi{possessor} is indicated by the \isi{possessive pronoun}. Thus, predicative \isi{possession} is expressed with the \isi{possessum} as the single argument of a \isi{monotransitive} clause; the \isi{possessor} is treated just like any \isi{adnominal possessor} in a possessive NP (i.e., it precedes the \isi{head noun}, \sectref{sec:9.1.5}). In examples \REF{ex:pred:30} through \REF{ex:pred:33}, the \isi{possessum} is indicated in \textbf{bold}.
+A: word: samban	 gloss: pot
+B: word: wambana	 gloss: fish
+C: word: wombasa	 gloss: clay.pot
+D: word: kana	 gloss: beside
+Please only return the letter (A–D).
+
+Question 44:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Leobaha min min-nji samban ___
+Gloss (with missing item): [name] 3DU 3DU-POSS pot ___
+The English translation of this sentence is:`Leobaha [and another child] had their own pots.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Possessive predicates \is{possessive predication} can likewise be expressed without any marking. There is no verb like the \ili{English} verb have in Ulwa. Rather, the \isi{possessed} item is simply predicated of the person who possesses it. The \isi{possessor} is indicated by the \isi{possessive pronoun}. Thus, predicative \isi{possession} is expressed with the \isi{possessum} as the single argument of a \isi{monotransitive} clause; the \isi{possessor} is treated just like any \isi{adnominal possessor} in a possessive NP (i.e., it precedes the \isi{head noun}, \sectref{sec:9.1.5}). In examples \REF{ex:pred:30} through \REF{ex:pred:33}, the \isi{possessum} is indicated in \textbf{bold}.
+A: word: anda-awa	 gloss: SG.DIST{-int}
+B: word: anda-we	 gloss: SG.DIST-PART.INT
+C: word: min=tï	 gloss: 3DU=take
+D: word: kanam	 gloss: beside
+Please only return the letter (A–D).
+
+Question 45:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kowe mï ___
+Gloss (with missing item): [name] 3SG.SUBJ ___
+The English translation of this sentence is:`Kowe is an older brother.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although \isi{non-verbal clause}s can be formed without any overt \isi{verb phrase} (\sectref{sec:10.2}), it is also possible for a \isi{copular enclitic} =p ‘\textsc{cop}’ to be to be added to a noun, \isi{adjective}, or other \isi{parts of speech} to create a \isi{predicate}. Although clearly derived historically from the \isi{locative verb} p- ‘be at’ (< \ili{Proto-Keram} *ip), the \isi{copular enclitic} is not used for \isi{locational predication}. Rather, it is used -- always optionally -- for other kinds of \isi{non-verbal clause}s. For example, \is{classificational clause} classificational, \is{identificational clause} identificational, or \is{existential clause} existential clauses may include the \isi{clitic} =p ‘\textsc{cop}’ at the end of the second NP, as in \REF{ex:pred:34}, \REF{ex:pred:35}, and \REF{ex:pred:36}.
+A: word: atuma=p	 gloss: older.brother=COP
+B: word: atuma=p-na	 gloss: older.brother=COP-IRR
+C: word: tembi	 gloss: bad
+D: word: watangïnila	 gloss: four
+Please only return the letter (A–D).
+
+Question 46:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï ___ mï wolka ma=lo-p
+Gloss (with missing item): 3SG.SUBJ ___ 3SG.SUBJ again 3SG.OBJ=cut{-pfv}
+The English translation of this sentence is:`It was a jungle; but he cleared it again.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although \isi{non-verbal clause}s can be formed without any overt \isi{verb phrase} (\sectref{sec:10.2}), it is also possible for a \isi{copular enclitic} =p ‘\textsc{cop}’ to be to be added to a noun, \isi{adjective}, or other \isi{parts of speech} to create a \isi{predicate}. Although clearly derived historically from the \isi{locative verb} p- ‘be at’ (< \ili{Proto-Keram} *ip), the \isi{copular enclitic} is not used for \isi{locational predication}. Rather, it is used -- always optionally -- for other kinds of \isi{non-verbal clause}s. For example, \is{classificational clause} classificational, \is{identificational clause} identificational, or \is{existential clause} existential clauses may include the \isi{clitic} =p ‘\textsc{cop}’ at the end of the second NP, as in \REF{ex:pred:34}, \REF{ex:pred:35}, and \REF{ex:pred:36}.
+A: word: wandam-p-e	 gloss: jungle=COP-DEP
+B: word: wandam	 gloss: jungle
+C: word: anjikaka=p-e	 gloss: how=COP-DEP
+D: word: ulwa=p	 gloss: nothing=COP
+Please only return the letter (A–D).
+
+Question 47:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wondi ___
+Gloss (with missing item): bandicoot ___
+The English translation of this sentence is:`There were no bandicoots.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although \isi{non-verbal clause}s can be formed without any overt \isi{verb phrase} (\sectref{sec:10.2}), it is also possible for a \isi{copular enclitic} =p ‘\textsc{cop}’ to be to be added to a noun, \isi{adjective}, or other \isi{parts of speech} to create a \isi{predicate}. Although clearly derived historically from the \isi{locative verb} p- ‘be at’ (< \ili{Proto-Keram} *ip), the \isi{copular enclitic} is not used for \isi{locational predication}. Rather, it is used -- always optionally -- for other kinds of \isi{non-verbal clause}s. For example, \is{classificational clause} classificational, \is{identificational clause} identificational, or \is{existential clause} existential clauses may include the \isi{clitic} =p ‘\textsc{cop}’ at the end of the second NP, as in \REF{ex:pred:34}, \REF{ex:pred:35}, and \REF{ex:pred:36}.
+A: word: ulwa=p	 gloss: nothing=COP
+B: word: ulwa=p-en	 gloss: nothing=COP{-nmlz}
+C: word: ulwa=p-e	 gloss: nothing=COP-DEP
+D: word: atuma=p-na	 gloss: older.brother=COP-IRR
+Please only return the letter (A–D).
+
+Question 48:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mï ___ mï wolka ma=lo-p
+Gloss (with missing item): 3SG.SUBJ ___ 3SG.SUBJ again 3SG.OBJ=cut{-pfv}
+The English translation of this sentence is:`It was a jungle; but he cleared it again.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: No \isi{tense} or \isi{aspect} distinction is made with this \isi{clitic}. However, the \isi{irrealis} \isi{suffix} -na ‘\textsc{irr}’ is generally added for \isi{irrealis} clauses, and other verbal \isi{suffix}ation may be added as well, such as the \isi{dependent marker} -e ‘\textsc{dep}’ in \REF{ex:pred:35}. The \isi{copular enclitic} can, in effect, function as a \isi{verbalizing} morpheme. In \REF{ex:pred:37} the \isi{irrealis} \isi{suffix} attaches to the \isi{copula}.
+A: word: wandam-p-e	 gloss: jungle=COP-DEP
+B: word: wandam	 gloss: jungle
+C: word: anjikaka=p-e	 gloss: how=COP-DEP
+D: word: ma=p-ta	 gloss: 3SG.OBJ=be-COND
+Please only return the letter (A–D).
+
+Question 49:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kowe mï ___
+Gloss (with missing item): [name] 3SG.SUBJ ___
+The English translation of this sentence is:`Kowe will be an older brother.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: No \isi{tense} or \isi{aspect} distinction is made with this \isi{clitic}. However, the \isi{irrealis} \isi{suffix} -na ‘\textsc{irr}’ is generally added for \isi{irrealis} clauses, and other verbal \isi{suffix}ation may be added as well, such as the \isi{dependent marker} -e ‘\textsc{dep}’ in \REF{ex:pred:35}. The \isi{copular enclitic} can, in effect, function as a \isi{verbalizing} morpheme. In \REF{ex:pred:37} the \isi{irrealis} \isi{suffix} attaches to the \isi{copula}.
+A: word: atuma=p-na	 gloss: older.brother=COP-IRR
+B: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+C: word: atuma=p	 gloss: older.brother=COP
+D: word: yata	 gloss: man
+Please only return the letter (A–D).
+
+Question 50:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): itom mï ___
+Gloss (with missing item): father 3SG.SUBJ ___
+The English translation of this sentence is:`Father is big.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Likewise, \isi{attributive clause}s (or \isi{attributional clause}s) receive the \isi{copular enclitic} after the \isi{phrase} containing the property word, as illustrated by examples \REF{ex:pred:38} through \REF{ex:pred:41}.
+A: word: ambi=p	 gloss: big=COP
+B: word: ambi=p-ta	 gloss: big=COP{-cond}
+C: word: an-mbï-unda-e	 gloss: out-here-go-IPFV
+D: word: kana	 gloss: beside
+Please only return the letter (A–D).
+
+Question 51:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): un ndï=la-ka-ta kuma ___
+Gloss (with missing item): 2PL 3PL=IRR-let-COND some ___
+The English translation of this sentence is:`Let some of them dry!’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Likewise, \isi{attributive clause}s (or \isi{attributional clause}s) receive the \isi{copular enclitic} after the \isi{phrase} containing the property word, as illustrated by examples \REF{ex:pred:38} through \REF{ex:pred:41}.
+A: word: wapata=p-ta	 gloss: dry=COP-COND
+B: word: wapata=p	 gloss: dry=COP
+C: word: nïpokonam=p-ta	 gloss: hard=COP{-cond}
+D: word: ndï=na-nda	 gloss: 3PL=give-IRR
+Please only return the letter (A–D).
+
+Question 52:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï-nji ambi kwe ___
+Gloss (with missing item): 1SG-POSS big one ___
+The English translation of this sentence is:`I have one big one there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It may be possible to use the \isi{copular enclitic} to indicate \isi{possessive predication}, although I have not found any clear examples of this. Sentence \REF{ex:pred:42}, for example, may rather represent the use of the \isi{locative verb} p- ‘be’ (i.e., ‘My big one is located there.’).
+A: word: ma=p-e	 gloss: 3SG.OBJ=COP?-DEP
+B: word: ma=p-en	 gloss: 3SG.OBJ=be{-nmlz}
+C: word: mï=na-na-p	 gloss: 3SG.SUBJ=DETR-feed-PFV
+D: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+Please only return the letter (A–D).
+
+Question 53:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ma-nji ini ___
+Gloss (with missing item): 3SG.OBJ-POSS ground ___
+The English translation of this sentence is:`He doesn’t have land.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Example \REF{ex:pred:43}, which uses a \isi{nominalizing} \isi{suffix} after the \isi{copular clitic}, is perhaps better analyzed as \is{classificatory predication} classificatory or \isi{attributive predication} (i.e., ‘His land is nothing/nonexistent.’).
+A: word: ulwa=p-en	 gloss: nothing=COP-NMLZ
+B: word: ulwa=p-e	 gloss: nothing=COP-DEP
+C: word: asa-p-e	 gloss: hit-PFV-DEP
+D: word: ala-nji	 gloss: PL.DIST{-poss}
+Please only return the letter (A–D).
+
+Question 54:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Amombi maka ___ wap
+Gloss (with missing item): [name] thus ___ be.PST
+The English translation of this sentence is:`Amombi was, like, in Rabaul.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although the \isi{locative verb} p- ‘be’ is unmarked for \isi{tense} and, as such, may be used to refer to either \isi{past} or \isi{present} \isi{time}, there is a weakly \isi{suppletive} form wap ‘be.\textsc{pst}’, which may be used to make explicit reference to \isi{location}s in \isi{past} \isi{time}. Its use in \is{locative predication} locative predicates is illustrated by sentences \REF{ex:pred:44}, \REF{ex:pred:45}, and \REF{ex:pred:46}.
+A: word: rabaul	 gloss: [place]
+B: word: amba	 gloss: mens.house
+C: word: luwa	 gloss: place
+D: word: wopata	 gloss: [place]
+Please only return the letter (A–D).
+
+Question 55:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Amombi maka Rabaul ___
+Gloss (with missing item): [name] thus [place] ___
+The English translation of this sentence is:`Amombi was, like, in Rabaul.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although the \isi{locative verb} p- ‘be’ is unmarked for \isi{tense} and, as such, may be used to refer to either \isi{past} or \isi{present} \isi{time}, there is a weakly \isi{suppletive} form the morpheme ___ ‘be.\textsc{pst}’, which may be used to make explicit reference to \isi{location}s in \isi{past} \isi{time}. Its use in \is{locative predication} locative predicates is illustrated by sentences \REF{ex:pred:44}, \REF{ex:pred:45}, and \REF{ex:pred:46}.
+A: word: wap	 gloss: be.PST
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: mbï-wap	 gloss: here-be.PST
+D: word: ma-na	 gloss: go-IRR
+Please only return the letter (A–D).
+
+Question 56:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nga=i ma=wap Ramu i ___
+Gloss (with missing item): SG.PROX=go.PFV 3SG.OBJ=be.PST [place] go.PFV ___
+The English translation of this sentence is:`[He] went there, stayed there, went to the Ramu area and stayed there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although the \isi{locative verb} p- ‘be’ is unmarked for \isi{tense} and, as such, may be used to refer to either \isi{past} or \isi{present} \isi{time}, there is a weakly \isi{suppletive} form wap ‘be.\textsc{pst}’, which may be used to make explicit reference to \isi{location}s in \isi{past} \isi{time}. Its use in \is{locative predication} locative predicates is illustrated by sentences \REF{ex:pred:44}, \REF{ex:pred:45}, and \REF{ex:pred:46}.
+A: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+B: word: ma=wap-e	 gloss: 3SG.OBJ=be.PST-DEP
+C: word: ama-p-ta	 gloss: eat-PFV-COND
+D: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+Please only return the letter (A–D).
+
+Question 57:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kambaramba wa ambi ma=ita-p ___ ma=wap-e wusim anda=in p-e ambla=asa-p
+Gloss (with missing item): [place] village big 3SG.OBJ=build-PFV ___ 3SG.OBJ=be.PST-DEP crocodile SG.DIST=in be{-dep} PL.REFL=hit-PFV
+The English translation of this sentence is:`[They] built the big village Kambaramba and stayed there. While staying there, they fought one another over the crocodile.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although the \isi{locative verb} p- ‘be’ is unmarked for \isi{tense} and, as such, may be used to refer to either \isi{past} or \isi{present} \isi{time}, there is a weakly \isi{suppletive} form wap ‘be.\textsc{pst}’, which may be used to make explicit reference to \isi{location}s in \isi{past} \isi{time}. Its use in \is{locative predication} locative predicates is illustrated by sentences \REF{ex:pred:44}, \REF{ex:pred:45}, and \REF{ex:pred:46}.
+A: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+B: word: ma=wap-e	 gloss: 3SG.OBJ=be.PST-DEP
+C: word: kayta	 gloss: [name]
+D: word: ta-na	 gloss: say-IRR
+Please only return the letter (A–D).
+
+Question 58:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kambaramba wa ambi ma=ita-p ma=wap ___ wusim anda=in p-e ambla=asa-p
+Gloss (with missing item): [place] village big 3SG.OBJ=build-PFV 3SG.OBJ=be.PST ___ crocodile SG.DIST=in be{-dep} PL.REFL=hit-PFV
+The English translation of this sentence is:`[They] built the big village Kambaramba and stayed there. While staying there, they fought one another over the crocodile.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Although the \isi{locative verb} p- ‘be’ is unmarked for \isi{tense} and, as such, may be used to refer to either \isi{past} or \isi{present} \isi{time}, there is a weakly \isi{suppletive} form wap ‘be.\textsc{pst}’, which may be used to make explicit reference to \isi{location}s in \isi{past} \isi{time}. Its use in \is{locative predication} locative predicates is illustrated by sentences \REF{ex:pred:44}, \REF{ex:pred:45}, and \REF{ex:pred:46}.
+A: word: ma=wap-e	 gloss: 3SG.OBJ=be.PST-DEP
+B: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+C: word: tarambi	 gloss: [name]
+D: word: anda=p-e	 gloss: SG.DIST=be{-dep}
+Please only return the letter (A–D).
+
+Question 59:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): anmoka mï apa ___ i
+Gloss (with missing item): snake 3SG.SUBJ house ___ go.PFV
+The English translation of this sentence is:`There was a snake in the house, [but it] left.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As with the form p- ‘be’, the use of the form wap ‘be.\textsc{pst}’ may at times be ambiguous between \isi{locative predication} and \isi{existential predication}, as in \REF{ex:pred:47} and \REF{ex:pred:48}.
+A: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+B: word: ma=wap-e	 gloss: 3SG.OBJ=be.PST-DEP
+C: word: ulwa=p-en	 gloss: nothing=COP{-nmlz}
+D: word: p-e	 gloss: be{-dep}
+Please only return the letter (A–D).
+
+Question 60:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): inim mï awal ini ma=wat ___
+Gloss (with missing item): water 3SG.SUBJ yesterday ground 3SG.OBJ=atop ___
+The English translation of this sentence is:`There was water on the ground yesterday.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: As with the form p- ‘be’, the use of the form the morpheme ___ ‘be.\textsc{pst}’ may at times be ambiguous between \isi{locative predication} and \isi{existential predication}, as in \REF{ex:pred:47} and \REF{ex:pred:48}.
+A: word: wap	 gloss: be.PST
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: mbï-wap	 gloss: here-be.PST
+D: word: i-n-e	 gloss: come-PFV-DEP
+Please only return the letter (A–D).
+
+Question 61:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Kowe mï atuma ___
+Gloss (with missing item): [name] 3SG.SUBJ older.brother ___
+The English translation of this sentence is:`Kowe was an older brother.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is perhaps possible for the \isi{past}-\isi{tense} \isi{locative verb} form the morpheme ___ ‘be.\textsc{pst}’ to be used as a \isi{copula}r verb (i.e., for non-\isi{locative predication}, such as \is{classificatory predication} classificatory, \is{equative predication} equative, or \isi{attributive predication}), but the only examples of this that I have seen come from targeted elicitation and may not be representative of traditional or naturalistic speech. Sentences \REF{ex:pred:49}, \REF{ex:pred:50}, and \REF{ex:pred:51} provide examples of \isi{copula}r uses of the morpheme ___ ‘be.\textsc{pst’}.
+A: word: wap	 gloss: be.PST
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: mbï-wap	 gloss: here-be.PST
+D: word: i-e	 gloss: go.PFV-DEP
+Please only return the letter (A–D).
+
+Question 62:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): itom mï ambi ___
+Gloss (with missing item): father 3SG.SUBJ big ___
+The English translation of this sentence is:`Father was big.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is perhaps possible for the \isi{past}-\isi{tense} \isi{locative verb} form the morpheme ___ ‘be.\textsc{pst}’ to be used as a \isi{copula}r verb (i.e., for non-\isi{locative predication}, such as \is{classificatory predication} classificatory, \is{equative predication} equative, or \isi{attributive predication}), but the only examples of this that I have seen come from targeted elicitation and may not be representative of traditional or naturalistic speech. Sentences \REF{ex:pred:49}, \REF{ex:pred:50}, and \REF{ex:pred:51} provide examples of \isi{copula}r uses of the morpheme ___ ‘be.\textsc{pst’}.
+A: word: wap	 gloss: be.PST
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: mbï-wap	 gloss: here-be.PST
+D: word: ndï=na-nda	 gloss: 3PL=give-IRR
+Please only return the letter (A–D).
+
+Question 63:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Banjiwa mï ankam anma ___ amun tembi=p
+Gloss (with missing item): [name] 3SG.SUBJ person good ___ now bad=COP
+The English translation of this sentence is:`Banjiwa was a good person, but now he is bad.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: It is perhaps possible for the \isi{past}-\isi{tense} \isi{locative verb} form the morpheme ___ ‘be.\textsc{pst}’ to be used as a \isi{copula}r verb (i.e., for non-\isi{locative predication}, such as \is{classificatory predication} classificatory, \is{equative predication} equative, or \isi{attributive predication}), but the only examples of this that I have seen come from targeted elicitation and may not be representative of traditional or naturalistic speech. Sentences \REF{ex:pred:49}, \REF{ex:pred:50}, and \REF{ex:pred:51} provide examples of \isi{copula}r uses of the morpheme ___ ‘be.\textsc{pst’}.
+A: word: wap	 gloss: be.PST
+B: word: wapata=p-ta	 gloss: dry=COP-COND
+C: word: mbï-wap	 gloss: here-be.PST
+D: word: ma=wap	 gloss: 3SG.OBJ=be.PST
+Please only return the letter (A–D).
+
+Question 64:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ma na ___ ma-n
+Gloss (with missing item): 1SG 3SG.OBJ talk ___ go-IPFV
+The English translation of this sentence is:`I am going to tell its story.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{imperfective} or \isi{irrealis} form of ma- ‘go’ may be used as an \isi{auxiliary verb} along with an \isi{irrealis} form of a main verb to signal the \isi{future}, nearly paralleling the \ili{English} \isi{periphrastic} \isi{future} construction with going to and an \isi{infinitive}. These Ulwa \isi{future} constructions are illustrated in examples \REF{ex:pred:52} through \REF{ex:pred:56}.
+A: word: ta-na	 gloss: say-IRR
+B: word: ma=ita-na	 gloss: 3SG.OBJ=build-IRR
+C: word: p-na	 gloss: be-IRR
+D: word: kol-nda	 gloss: split-IRR
+Please only return the letter (A–D).
+
+Question 65:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): nï ma na ta-na ___
+Gloss (with missing item): 1SG 3SG.OBJ talk say-IRR ___
+The English translation of this sentence is:`I am going to tell its story.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{imperfective} or \isi{irrealis} form of ma- ‘go’ may be used as an \isi{auxiliary verb} along with an \isi{irrealis} form of a main verb to signal the \isi{future}, nearly paralleling the \ili{English} \isi{periphrastic} \isi{future} construction with going to and an \isi{infinitive}. These Ulwa \isi{future} constructions are illustrated in examples \REF{ex:pred:52} through \REF{ex:pred:56}.
+A: word: ma-n	 gloss: go-IPFV
+B: word: ma-nji	 gloss: 3SG.OBJ-POSS
+C: word: u-lo-e	 gloss: from-go-IPFV
+D: word: p-ta	 gloss: be{-cond}
+Please only return the letter (A–D).
+
+Question 66:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): apwanam i-ta wa ___ ma-n-e
+Gloss (with missing item): side.of.house go.PFV-COND just ___ go-IPFV-DEP
+The English translation of this sentence is:`If [you] go to the side of the house, [you] are just going to stay there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{imperfective} or \isi{irrealis} form of ma- ‘go’ may be used as an \isi{auxiliary verb} along with an \isi{irrealis} form of a main verb to signal the \isi{future}, nearly paralleling the \ili{English} \isi{periphrastic} \isi{future} construction with going to and an \isi{infinitive}. These Ulwa \isi{future} constructions are illustrated in examples \REF{ex:pred:52} through \REF{ex:pred:56}.
+A: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+B: word: atuma=p-na	 gloss: older.brother=COP-IRR
+C: word: ma=kï-na	 gloss: 3SG.OBJ=say-IRR
+D: word: la-nda	 gloss: eat-IRR
+Please only return the letter (A–D).
+
+Question 67:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): apwanam i-ta wa ma=p-na ___
+Gloss (with missing item): side.of.house go.PFV-COND just 3SG.OBJ=be-IRR ___
+The English translation of this sentence is:`If [you] go to the side of the house, [you] are just going to stay there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The \isi{imperfective} or \isi{irrealis} form of ma- ‘go’ may be used as an \isi{auxiliary verb} along with an \isi{irrealis} form of a main verb to signal the \isi{future}, nearly paralleling the \ili{English} \isi{periphrastic} \isi{future} construction with going to and an \isi{infinitive}. These Ulwa \isi{future} constructions are illustrated in examples \REF{ex:pred:52} through \REF{ex:pred:56}.
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: ma-n-en	 gloss: go-IPFV-NMLZ
+C: word: na-ma-n-e	 gloss: DETR-go-IPFV-DEP
+D: word: ta-na	 gloss: say-IRR
+Please only return the letter (A–D).
+
+Question 68:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï ma=in ___ ma-n-e
+Gloss (with missing item): 3PL 3SG.OBJ=in ___ go-IPFV-DEP
+The English translation of this sentence is:`They are going to stay inside it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples such as \REF{ex:pred:55} and \REF{ex:pred:56}, in which the main verb is the static \isi{locative verb} p- ‘be’, illustrate the purely \isi{temporal} or \isi{modal} use of this verb ma- ‘go’ -- that is, a use without any sense of \isi{motion}. While the \isi{imperfective} form of ma- ‘go’ is most often used in these constructions, it is alternatively possible to use an \isi{irrealis} (or even \isi{conditional}) form of the verb, as shown by \REF{ex:pred:57} and \REF{ex:pred:58}.
+A: word: p-na	 gloss: be-IRR
+B: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+C: word: ta-na	 gloss: say-IRR
+D: word: ulwa=p-en	 gloss: nothing=COP{-nmlz}
+Please only return the letter (A–D).
+
+Question 69:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï ma=in p-na ___
+Gloss (with missing item): 3PL 3SG.OBJ=in be-IRR ___
+The English translation of this sentence is:`They are going to stay inside it.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples such as \REF{ex:pred:55} and \REF{ex:pred:56}, in which the main verb is the static \isi{locative verb} p- ‘be’, illustrate the purely \isi{temporal} or \isi{modal} use of this verb ma- ‘go’ -- that is, a use without any sense of \isi{motion}. While the \isi{imperfective} form of ma- ‘go’ is most often used in these constructions, it is alternatively possible to use an \isi{irrealis} (or even \isi{conditional}) form of the verb, as shown by \REF{ex:pred:57} and \REF{ex:pred:58}.
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: ma-n-en	 gloss: go-IPFV-NMLZ
+C: word: na-ma-n-e	 gloss: DETR-go-IPFV-DEP
+D: word: ambi=p	 gloss: big=COP
+Please only return the letter (A–D).
+
+Question 70:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): apwanam i-ta wa ___ ma-n-e
+Gloss (with missing item): side.of.house go.PFV-COND just ___ go-IPFV-DEP
+The English translation of this sentence is:`If [you] go to the side of the house, [you] are just going to stay there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples such as \REF{ex:pred:55} and \REF{ex:pred:56}, in which the main verb is the static \isi{locative verb} p- ‘be’, illustrate the purely \isi{temporal} or \isi{modal} use of this verb ma- ‘go’ -- that is, a use without any sense of \isi{motion}. While the \isi{imperfective} form of ma- ‘go’ is most often used in these constructions, it is alternatively possible to use an \isi{irrealis} (or even \isi{conditional}) form of the verb, as shown by \REF{ex:pred:57} and \REF{ex:pred:58}.
+A: word: ma=p-na	 gloss: 3SG.OBJ=be-IRR
+B: word: atuma=p-na	 gloss: older.brother=COP-IRR
+C: word: ma=kï-na	 gloss: 3SG.OBJ=say-IRR
+D: word: yata	 gloss: man
+Please only return the letter (A–D).
+
+Question 71:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): apwanam i-ta wa ma=p-na ___
+Gloss (with missing item): side.of.house go.PFV-COND just 3SG.OBJ=be-IRR ___
+The English translation of this sentence is:`If [you] go to the side of the house, [you] are just going to stay there.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples such as \REF{ex:pred:55} and \REF{ex:pred:56}, in which the main verb is the static \isi{locative verb} p- ‘be’, illustrate the purely \isi{temporal} or \isi{modal} use of this verb ma- ‘go’ -- that is, a use without any sense of \isi{motion}. While the \isi{imperfective} form of ma- ‘go’ is most often used in these constructions, it is alternatively possible to use an \isi{irrealis} (or even \isi{conditional}) form of the verb, as shown by \REF{ex:pred:57} and \REF{ex:pred:58}.
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: ma-n-en	 gloss: go-IPFV-NMLZ
+C: word: na-ma-n-e	 gloss: DETR-go-IPFV-DEP
+D: word: wapata=p-ta	 gloss: dry=COP-COND
+Please only return the letter (A–D).
+
+Question 72:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u angos ___ ma-na
+Gloss (with missing item): 2SG what ___ go-IRR
+The English translation of this sentence is:`What could you be going to get?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples such as \REF{ex:pred:55} and \REF{ex:pred:56}, in which the main verb is the static \isi{locative verb} p- ‘be’, illustrate the purely \isi{temporal} or \isi{modal} use of this verb ma- ‘go’ -- that is, a use without any sense of \isi{motion}. While the \isi{imperfective} form of ma- ‘go’ is most often used in these constructions, it is alternatively possible to use an \isi{irrealis} (or even \isi{conditional}) form of the verb, as shown by \REF{ex:pred:57} and \REF{ex:pred:58}.
+A: word: tï-na	 gloss: take-IRR
+B: word: ma=atï-na	 gloss: 3SG.OBJ=hit-IRR
+C: word: la-ka-na	 gloss: IRR-let-IRR
+D: word: nga=p-ta	 gloss: SG.PROX=be{-cond}
+Please only return the letter (A–D).
+
+Question 73:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): u angos tï-na ___
+Gloss (with missing item): 2SG what take-IRR ___
+The English translation of this sentence is:`What could you be going to get?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples such as \REF{ex:pred:55} and \REF{ex:pred:56}, in which the main verb is the static \isi{locative verb} p- ‘be’, illustrate the purely \isi{temporal} or \isi{modal} use of this verb ma- ‘go’ -- that is, a use without any sense of \isi{motion}. While the \isi{imperfective} form of ma- ‘go’ is most often used in these constructions, it is alternatively possible to use an \isi{irrealis} (or even \isi{conditional}) form of the verb, as shown by \REF{ex:pred:57} and \REF{ex:pred:58}.
+A: word: ma-na	 gloss: go-IRR
+B: word: ma-na-ta	 gloss: go-IRR-COND
+C: word: damnda	 gloss: [name]
+D: word: yata	 gloss: man
+Please only return the letter (A–D).
+
+Question 74:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan tïmbïl ma=in ___ ma-na-ta
+Gloss (with missing item): 1PL.INCL fence 3SG.OBJ=in ___ go-IRR-COND
+The English translation of this sentence is:`If we are going to be within the fence …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples such as \REF{ex:pred:55} and \REF{ex:pred:56}, in which the main verb is the static \isi{locative verb} p- ‘be’, illustrate the purely \isi{temporal} or \isi{modal} use of this verb ma- ‘go’ -- that is, a use without any sense of \isi{motion}. While the \isi{imperfective} form of ma- ‘go’ is most often used in these constructions, it is alternatively possible to use an \isi{irrealis} (or even \isi{conditional}) form of the verb, as shown by \REF{ex:pred:57} and \REF{ex:pred:58}.
+A: word: p-ta	 gloss: be{-cond}
+B: word: nga=p-ta	 gloss: SG.PROX=be{-cond}
+C: word: mbï-p-ta	 gloss: here-be{-cond}
+D: word: apka	 gloss: very
+Please only return the letter (A–D).
+
+Question 75:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): unan tïmbïl ma=in p-ta ___
+Gloss (with missing item): 1PL.INCL fence 3SG.OBJ=in be{-cond} ___
+The English translation of this sentence is:`If we are going to be within the fence …’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Examples such as \REF{ex:pred:55} and \REF{ex:pred:56}, in which the main verb is the static \isi{locative verb} p- ‘be’, illustrate the purely \isi{temporal} or \isi{modal} use of this verb ma- ‘go’ -- that is, a use without any sense of \isi{motion}. While the \isi{imperfective} form of ma- ‘go’ is most often used in these constructions, it is alternatively possible to use an \isi{irrealis} (or even \isi{conditional}) form of the verb, as shown by \REF{ex:pred:57} and \REF{ex:pred:58}.
+A: word: ma-na-ta	 gloss: go-IRR-COND
+B: word: ma-na-t	 gloss: go-IRR-SPEC
+C: word: ma-na	 gloss: go-IRR
+D: word: wutota	 gloss: tall
+Please only return the letter (A–D).
+
+Question 76:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ala ___ i
+Gloss (with missing item): PL.DIST ___ go.PFV
+The English translation of this sentence is:`Those people have come to fight us.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: While it is theoretically possible that \isi{perfective} forms of the verb may be used in such constructions as well (i.e., the \isi{suppletive} form i ‘go.\textsc{pfv’}), I do not have clear examples of this. Some apparent examples of \isi{periphrastic} \isi{future} constructions with i ‘go.\textsc{pfv}’ are in fact constructions with \isi{purpose clause}s, which also contain \isi{irrealis} verb forms. For example, sentences \REF{ex:pred:59} and \REF{ex:pred:60} are not analyzed as \isi{periphrastic} \isi{future} constructions, but rather as \isi{purpose} constructions.
+A: word: unan=wali-nda	 gloss: 1PL.INCL=hit-IRR
+B: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+C: word: unan=asa	 gloss: 1PL.INCL=hit
+D: word: ala-nji	 gloss: PL.DIST{-poss}
+Please only return the letter (A–D).
+
+Question 77:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ala unan=wali-nda ___
+Gloss (with missing item): PL.DIST 1PL.INCL=hit-IRR ___
+The English translation of this sentence is:`Those people have come to fight us.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whthe morpheme ___le the morpheme ___t the morpheme ___s theoretthe morpheme ___cally possthe morpheme ___ble that \the morpheme ___sthe morpheme ___{perfectthe morpheme ___ve} forms of the verb may be used the morpheme ___n such constructthe morpheme ___ons as well (the morpheme ___.e., the \the morpheme ___sthe morpheme ___{suppletthe morpheme ___ve} form the morpheme ___ ‘go.\textsc{pfv’}), I do not have clear examples of ththe morpheme ___s. Some apparent examples of \the morpheme ___sthe morpheme ___{perthe morpheme ___phrastthe morpheme ___c} \the morpheme ___sthe morpheme ___{future} constructthe morpheme ___ons wthe morpheme ___th the morpheme ___ ‘go.\textsc{pfv}’ are the morpheme ___n fact constructthe morpheme ___ons wthe morpheme ___th \the morpheme ___sthe morpheme ___{purpose clause}s, whthe morpheme ___ch also contathe morpheme ___n \the morpheme ___sthe morpheme ___{the morpheme ___rrealthe morpheme ___s} verb forms. For example, sentences \REF{ex:pred:59} and \REF{ex:pred:60} are not analyzed as \the morpheme ___sthe morpheme ___{perthe morpheme ___phrastthe morpheme ___c} \the morpheme ___sthe morpheme ___{future} constructthe morpheme ___ons, but rather as \the morpheme ___sthe morpheme ___{purpose} constructthe morpheme ___ons.
+A: word: i	 gloss: go.PFV
+B: word: itom	 gloss: father
+C: word: an-asa-e	 gloss: 1PL.EXCL-hit-IPFV
+D: word: unan=wali-nda	 gloss: 1PL.INCL=hit-IRR
+Please only return the letter (A–D).
+
+Question 78:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): min tïlwa=nï wandam ___ i-e
+Gloss (with missing item): 3DU road=OBL jungle ___ go.PFV-DEP
+The English translation of this sentence is:`The two went to split the jungle from the path.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: While it is theoretically possible that \isi{perfective} forms of the verb may be used in such constructions as well (i.e., the \isi{suppletive} form i ‘go.\textsc{pfv’}), I do not have clear examples of this. Some apparent examples of \isi{periphrastic} \isi{future} constructions with i ‘go.\textsc{pfv}’ are in fact constructions with \isi{purpose clause}s, which also contain \isi{irrealis} verb forms. For example, sentences \REF{ex:pred:59} and \REF{ex:pred:60} are not analyzed as \isi{periphrastic} \isi{future} constructions, but rather as \isi{purpose} constructions.
+A: word: kol-nda	 gloss: split-IRR
+B: word: ndï=la-nda	 gloss: 3PL=eat{-irr}
+C: word: won-la-ka-na	 gloss: cut-IRR-let-IRR
+D: word: unan=wali-nda	 gloss: 1PL.INCL=hit-IRR
+Please only return the letter (A–D).
+
+Question 79:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): min tïlwa=nï wandam kol-nda ___
+Gloss (with missing item): 3DU road=OBL jungle split-IRR ___
+The English translation of this sentence is:`The two went to split the jungle from the path.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: While it is theoretically possible that \isi{perfective} forms of the verb may be used in such constructions as well (i.e., the \isi{suppletive} form i ‘go.\textsc{pfv’}), I do not have clear examples of this. Some apparent examples of \isi{periphrastic} \isi{future} constructions with i ‘go.\textsc{pfv}’ are in fact constructions with \isi{purpose clause}s, which also contain \isi{irrealis} verb forms. For example, sentences \REF{ex:pred:59} and \REF{ex:pred:60} are not analyzed as \isi{periphrastic} \isi{future} constructions, but rather as \isi{purpose} constructions.
+A: word: i-e	 gloss: go.PFV-DEP
+B: word: ndï=wali-e	 gloss: 3PL=hit-IPFV
+C: word: lo-p-e	 gloss: go-PFV-DEP
+D: word: p-na	 gloss: be-IRR
+Please only return the letter (A–D).
+
+Question 80:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï apïn=n anul ___ ma-n-e mï ipka i
+Gloss (with missing item): 3PL fire=OBL grassland ___ go-IPFV-DEP 3SG.SUBJ before go.PFV
+The English translation of this sentence is:`They were going to burn the grassland, but he went ahead [of them].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Indeed, it is often difficult to determine whether a ‘going’ verb is marking futurity or \isi{purpose}. This is perhaps unsurprising, if one assumes the likely historical change of: verb of \isi{motion} > \isi{purpose} > \isi{future}. In examples \REF{ex:pred:61} and \REF{ex:pred:62}, the \ili{English} translations capture the ambiguity well. In \REF{ex:pred:61}, a reading in which the ‘going’ verb marks futurity would suggest that the first clause is \isi{counterfactual}.
+A: word: la-nda	 gloss: eat-IRR
+B: word: ndï=la-nda	 gloss: 3PL=eat{-irr}
+C: word: na-la-nda	 gloss: DETR-eat-IRR
+D: word: wopata	 gloss: [place]
+Please only return the letter (A–D).
+
+Question 81:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï apïn=n anul la-nda ___ mï ipka i
+Gloss (with missing item): 3PL fire=OBL grassland eat-IRR ___ 3SG.SUBJ before go.PFV
+The English translation of this sentence is:`They were going to burn the grassland, but he went ahead [of them].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Indeed, it is often difficult to determine whether a ‘going’ verb is marking futurity or \isi{purpose}. This is perhaps unsurprising, if one assumes the likely historical change of: verb of \isi{motion} > \isi{purpose} > \isi{future}. In examples \REF{ex:pred:61} and \REF{ex:pred:62}, the \ili{English} translations capture the ambiguity well. In \REF{ex:pred:61}, a reading in which the ‘going’ verb marks futurity would suggest that the first clause is \isi{counterfactual}.
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: ma-n-en	 gloss: go-IPFV-NMLZ
+C: word: na-ma-n-e	 gloss: DETR-go-IPFV-DEP
+D: word: p-e	 gloss: be{-dep}
+Please only return the letter (A–D).
+
+Question 82:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Magendo ala=ul ___ ma-n-e
+Gloss (with missing item): [place] PL.DIST=with ___ go-IPFV-DEP
+The English translation of this sentence is:`[They] were going to fight with the people from Magendo [village].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Indeed, it is often difficult to determine whether a ‘going’ verb is marking futurity or \isi{purpose}. This is perhaps unsurprising, if one assumes the likely historical change of: verb of \isi{motion} > \isi{purpose} > \isi{future}. In examples \REF{ex:pred:61} and \REF{ex:pred:62}, the \ili{English} translations capture the ambiguity well. In \REF{ex:pred:61}, a reading in which the ‘going’ verb marks futurity would suggest that the first clause is \isi{counterfactual}.
+A: word: ambla=wali-nda	 gloss: PL.REFL=hit-IRR
+B: word: ambla=wali-n	 gloss: PL.REFL=hit-IMP
+C: word: ni-p	 gloss: die-PFV
+D: word: kana	 gloss: beside
+Please only return the letter (A–D).
+
+Question 83:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): Magendo ala=ul ambla=wali-nda ___
+Gloss (with missing item): [place] PL.DIST=with PL.REFL=hit-IRR ___
+The English translation of this sentence is:`[They] were going to fight with the people from Magendo [village].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Indeed, it is often difficult to determine whether a ‘going’ verb is marking futurity or \isi{purpose}. This is perhaps unsurprising, if one assumes the likely historical change of: verb of \isi{motion} > \isi{purpose} > \isi{future}. In examples \REF{ex:pred:61} and \REF{ex:pred:62}, the \ili{English} translations capture the ambiguity well. In \REF{ex:pred:61}, a reading in which the ‘going’ verb marks futurity would suggest that the first clause is \isi{counterfactual}.
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: ma-n-en	 gloss: go-IPFV-NMLZ
+C: word: na-ma-n-e	 gloss: DETR-go-IPFV-DEP
+D: word: ulwa=p	 gloss: nothing=COP
+Please only return the letter (A–D).
+
+Question 84:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï apïn=n anul ___ ma-n-e mï ipka i
+Gloss (with missing item): 3PL fire=OBL grassland ___ go-IPFV-DEP 3SG.SUBJ before go.PFV
+The English translation of this sentence is:`They were going to burn the grassland, but he went ahead [of them].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Indeed, it is often difficult to determine whether a ‘going’ verb is marking futurity or \isi{purpose}. This is perhaps unsurprising, if one assumes the likely historical change of: verb of \isi{motion} > \isi{purpose} > \isi{future}. In examples \REF{ex:pred:61} and \REF{ex:pred:62}, the \ili{English} translations capture the ambiguity well. In \REF{ex:pred:61}, a reading in which the ‘going’ verb marks futurity would suggest that the first clause is \isi{counterfactual}.
+A: word: la-nda	 gloss: eat-IRR
+B: word: ndï=la-nda	 gloss: 3PL=eat{-irr}
+C: word: na-la-nda	 gloss: DETR-eat-IRR
+D: word: anda=p-e	 gloss: SG.DIST=be{-dep}
+Please only return the letter (A–D).
+
+Question 85:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï apïn=n anul la-nda ___ mï ipka i
+Gloss (with missing item): 3PL fire=OBL grassland eat-IRR ___ 3SG.SUBJ before go.PFV
+The English translation of this sentence is:`They were going to burn the grassland, but he went ahead [of them].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Indeed, it is often difficult to determine whether a ‘going’ verb is marking futurity or \isi{purpose}. This is perhaps unsurprising, if one assumes the likely historical change of: verb of \isi{motion} > \isi{purpose} > \isi{future}. In examples \REF{ex:pred:61} and \REF{ex:pred:62}, the \ili{English} translations capture the ambiguity well. In \REF{ex:pred:61}, a reading in which the ‘going’ verb marks futurity would suggest that the first clause is \isi{counterfactual}.
+A: word: ma-n-e	 gloss: go-IPFV-DEP
+B: word: ma-n-en	 gloss: go-IPFV-NMLZ
+C: word: na-ma-n-e	 gloss: DETR-go-IPFV-DEP
+D: word: kana	 gloss: beside
+Please only return the letter (A–D).
+
+Question 86:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wongïta ma=n ___ lo-p-e
+Gloss (with missing item): bow 3SG.OBJ=OBL ___ go-PFV-DEP
+The English translation of this sentence is:`[I] went to hit it with [my] bow.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whereas only ma- ‘go’ seems to be permitted in \isi{periphrastic} \isi{future} constructions, it is possible for other \isi{motion} verbs to indicate \isi{purpose} as well, such as the verb lo- ‘cut, go’ and in- ‘come’, as seen in \REF{ex:pred:63} and \REF{ex:pred:64}.\footnote{It should be noted, however, that the exact \isi{syntactic} nature of these \isi{purpose} constructions is not entirely clear. It seems that only \isi{motion} verbs permit this \isi{embedded clause} structure to express \isi{purpose}. Elsewhere, the clause indicating \isi{purpose} simply follows the clause detailing the action performed for that \isi{purpose} (see \sectref{sec:4.6}).}
+A: word: ma=atï-na	 gloss: 3SG.OBJ=take-IRR
+B: word: u=atï-na	 gloss: 2SG=hit-IRR
+C: word: ma=na-nda	 gloss: 3SG.OBJ=give-IRR
+D: word: kana	 gloss: beside
+Please only return the letter (A–D).
+
+Question 87:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): wongïta ma=n ma=atï-na ___
+Gloss (with missing item): bow 3SG.OBJ=OBL 3SG.OBJ=take-IRR ___
+The English translation of this sentence is:`[I] went to hit it with [my] bow.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whereas only ma- ‘go’ seems to be permitted in \isi{periphrastic} \isi{future} constructions, it is possible for other \isi{motion} verbs to indicate \isi{purpose} as well, such as the verb lo- ‘cut, go’ and in- ‘come’, as seen in \REF{ex:pred:63} and \REF{ex:pred:64}.\footnote{It should be noted, however, that the exact \isi{syntactic} nature of these \isi{purpose} constructions is not entirely clear. It seems that only \isi{motion} verbs permit this \isi{embedded clause} structure to express \isi{purpose}. Elsewhere, the clause indicating \isi{purpose} simply follows the clause detailing the action performed for that \isi{purpose} (see \sectref{sec:4.6}).}
+A: word: lo-p-e	 gloss: go-PFV-DEP
+B: word: nga=lo-p-e	 gloss: SG.PROX=cut-PFV-DEP
+C: word: i-e	 gloss: go.PFV-DEP
+D: word: ulwa=p	 gloss: nothing=COP
+Please only return the letter (A–D).
+
+Question 88:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï=tï ___ ndï=nap i-n-e
+Gloss (with missing item): 3PL=take ___ 3PL=for come-PFV-DEP
+The English translation of this sentence is:`[They] came for their sake to give them [= fish] to them [= their people].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whereas only ma- ‘go’ seems to be permitted in \isi{periphrastic} \isi{future} constructions, it is possible for other \isi{motion} verbs to indicate \isi{purpose} as well, such as the verb lo- ‘cut, go’ and in- ‘come’, as seen in \REF{ex:pred:63} and \REF{ex:pred:64}.\footnote{It should be noted, however, that the exact \isi{syntactic} nature of these \isi{purpose} constructions is not entirely clear. It seems that only \isi{motion} verbs permit this \isi{embedded clause} structure to express \isi{purpose}. Elsewhere, the clause indicating \isi{purpose} simply follows the clause detailing the action performed for that \isi{purpose} (see \sectref{sec:4.6}).}
+A: word: ndï=na-nda	 gloss: 3PL=give-IRR
+B: word: ndï=na-n-e	 gloss: 3PL=give-PFV-DEP
+C: word: ndï=kï-na	 gloss: 3PL=say-IRR
+D: word: lo-p-e	 gloss: go-PFV-DEP
+Please only return the letter (A–D).
+
+Question 89:
+You are a linguist specializing in Ulwa. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ndï=tï ndï=na-nda ndï=nap ___
+Gloss (with missing item): 3PL=take 3PL=give-IRR 3PL=for ___
+The English translation of this sentence is:`[They] came for their sake to give them [= fish] to them [= their people].’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Whereas only ma- ‘go’ seems to be permitted in \isi{periphrastic} \isi{future} constructions, it is possible for other \isi{motion} verbs to indicate \isi{purpose} as well, such as the verb lo- ‘cut, go’ and in- ‘come’, as seen in \REF{ex:pred:63} and \REF{ex:pred:64}.\footnote{It should be noted, however, that the exact \isi{syntactic} nature of these \isi{purpose} constructions is not entirely clear. It seems that only \isi{motion} verbs permit this \isi{embedded clause} structure to express \isi{purpose}. Elsewhere, the clause indicating \isi{purpose} simply follows the clause detailing the action performed for that \isi{purpose} (see \sectref{sec:4.6}).}
+A: word: i-n-e	 gloss: come-PFV-DEP
+B: word: ma-n-e	 gloss: go-IPFV-DEP
+C: word: mbï-i-e	 gloss: here-go.PFV-DEP
+D: word: nga=wat	 gloss: SG.PROX=atop
+Please only return the letter (A–D).
+

@@ -1,0 +1,252 @@
+Question 0:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): shunu ___
+Gloss (with missing item): today ___
+The English translation of this sentence is:‘Today, I am working. / Today, I will work.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: That the present construction only specifies that the event nucleus extends beyond UT, and does not specify if it overlaps with UT, may suggest that the label “present” is incorrect, and that an analysis of this construction as future is more suitable. There are, however, a number of reasons why a present analysis is preferred. Fwe has two future constructions (see \sectref{bkm:Ref463007186}), whose basic criteria are that the nucleus is situated in its entirety after UT: their only possible interpretation is future. This contrasts with the present construction, where overlap with UT is optional, and both future and present interpretations are possible. This difference is illustrated in (\ref{bkm:Ref468114262}--\ref{bkm:Ref74908034}): the present construction in (\ref{bkm:Ref468114262}) can either be interpreted as indicating that the speaker already started working, or that he will start working. The near future construction in (\ref{bkm:Ref74908034}), however, can only indicate that the speaker has not yet started working, but will start working later the same day.
+A: word: ndi-sebez-á̲	 gloss: SM1SG-work-FV
+B: word: ka-ndi-sebez-á̲	 gloss: PST.IPFV-SM1SG-work-FV
+C: word: a-sebez-á̲	 gloss: SM1-work-FV
+D: word: mú̲-kahnan-á̲	 gloss: SM2PL.REL-argue-FV
+Please only return the letter (A–D).
+
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): shunu ___
+Gloss (with missing item): today ___
+The English translation of this sentence is:‘Today, I will work.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: That the present construction only specifies that the event nucleus extends beyond UT, and does not specify if it overlaps with UT, may suggest that the label “present” is incorrect, and that an analysis of this construction as future is more suitable. There are, however, a number of reasons why a present analysis is preferred. Fwe has two future constructions (see \sectref{bkm:Ref463007186}), whose basic criteria are that the nucleus is situated in its entirety after UT: their only possible interpretation is future. This contrasts with the present construction, where overlap with UT is optional, and both future and present interpretations are possible. This difference is illustrated in (\ref{bkm:Ref468114262}--\ref{bkm:Ref74908034}): the present construction in (\ref{bkm:Ref468114262}) can either be interpreted as indicating that the speaker already started working, or that he will start working. The near future construction in (\ref{bkm:Ref74908034}), however, can only indicate that the speaker has not yet started working, but will start working later the same day.
+A: word: mbo-ndí̲-sebez-é̲	 gloss: NEAR.FUT-SM1SG-work-PFV.SBJV
+B: word: ndí̲-sebez-á̲	 gloss: SM1SG.REL-work-FV
+C: word: mbo-ndi-áku-berek-ang-a	 gloss: NEAR.FUT-SM1SG-SBJV.IPFV-work-HAB-FV
+D: word: ka-ndi-shwen-é̲te	 gloss: PST.IPFV-SM1SG-become_tired-STAT
+Please only return the letter (A–D).
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): shunu ___
+Gloss (with missing item): today ___
+The English translation of this sentence is:‘Today, I am working. / Today, I will work.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: That the present construction only specifies that the event nucleus extends beyond UT, and does not specify if it overlaps with UT, may suggest that the label “present” is incorrect, and that an analysis of this construction as future is more suitable. There are, however, a number of reasons why a present analysis is preferred. Fwe has two future constructions (see \sectref{bkm:Ref463007186}), whose basic criteria are that the nucleus is situated in its entirety after UT: their only possible interpretation is future. This contrasts with the present construction, where overlap with UT is optional, and both future and present interpretations are possible. This difference is illustrated in (\ref{bkm:Ref468114262}--\ref{bkm:Ref74908034}): the present construction in (\ref{bkm:Ref468114262}) can either be interpreted as indicating that the speaker already started working, or that he will start working. The near future construction in (\ref{bkm:Ref74908034}), however, can only indicate that the speaker has not yet started working, but will start working later the same day.
+A: word: ndi-sebez-á̲	 gloss: SM1SG-work-FV
+B: word: ka-ndi-sebez-á̲	 gloss: PST.IPFV-SM1SG-work-FV
+C: word: a-sebez-á̲	 gloss: SM1-work-FV
+D: word: ka-á̲-shih-ké̲ːzy-a	 gloss: PST.IPFV-SM1-PER-come-FV
+Please only return the letter (A–D).
+
+Question 3:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): shunu ___
+Gloss (with missing item): today ___
+The English translation of this sentence is:‘Today, I will work.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: That the present construction only specifies that the event nucleus extends beyond UT, and does not specify if it overlaps with UT, may suggest that the label “present” is incorrect, and that an analysis of this construction as future is more suitable. There are, however, a number of reasons why a present analysis is preferred. Fwe has two future constructions (see \sectref{bkm:Ref463007186}), whose basic criteria are that the nucleus is situated in its entirety after UT: their only possible interpretation is future. This contrasts with the present construction, where overlap with UT is optional, and both future and present interpretations are possible. This difference is illustrated in (\ref{bkm:Ref468114262}--\ref{bkm:Ref74908034}): the present construction in (\ref{bkm:Ref468114262}) can either be interpreted as indicating that the speaker already started working, or that he will start working. The near future construction in (\ref{bkm:Ref74908034}), however, can only indicate that the speaker has not yet started working, but will start working later the same day.
+A: word: mbo-ndí̲-sebez-é̲	 gloss: NEAR.FUT-SM1SG-work-PFV.SBJV
+B: word: ndí̲-sebez-á̲	 gloss: SM1SG.REL-work-FV
+C: word: mbo-ndi-áku-berek-ang-a	 gloss: NEAR.FUT-SM1SG-SBJV.IPFV-work-HAB-FV
+D: word: ndi-mun-á̲	 gloss: SM1SG-own-FV
+Please only return the letter (A–D).
+
+Question 4:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ o-∅-nkúku o-zyo ndí̲-a-ya-í̲
+Gloss (with missing item): ___ AUG-NP1a-chicken AUG-DEM.III1 SM1SG-PST-kill-NPST.PFV
+The English translation of this sentence is:‘We are eating the chicken that I killed.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I will now discuss and illustrate the different interpretations of the present construction in more detail. The present progressive interpretation, where the event nucleus overlaps with an extends beyond utterance time, is illustrated with the dynamic verbs rí ‘eat’ in (\ref{bkm:Ref98834031}), and kánan ‘argue’ in (\ref{bkm:Ref98834032}).
+A: word: tu-ri-á̲	 gloss: SM1PL-eat-FV
+B: word: o-shih-ri-á̲	 gloss: SM2SG-COND-eat-FV
+C: word: a-ryh-á̲	 gloss: SM1-eat-FV
+D: word: ndi-uh-tw-á̲	 gloss: SM1SG-OM3-pound-FV
+Please only return the letter (A–D).
+
+Question 5:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ∅-zì-njí ___
+Gloss (with missing item): COP-NP8-what ___
+The English translation of this sentence is:‘What are you arguing about?’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I will now discuss and illustrate the different interpretations of the present construction in more detail. The present progressive interpretation, where the event nucleus overlaps with an extends beyond utterance time, is illustrated with the dynamic verbs rí ‘eat’ in (\ref{bkm:Ref98834031}), and kánan ‘argue’ in (\ref{bkm:Ref98834032}).
+A: word: mú̲-kahnan-á̲	 gloss: SM2PL.REL-argue-FV
+B: word: mú̲-kahn-an-á̲	 gloss: SM2PL.REL-argue-REC-FV
+C: word: ri-ó=∅-ndavú	 gloss: PP5-CON=NP1a-lion
+D: word: no=ku-káris-a	 gloss: COM=INF-start-FV
+Please only return the letter (A–D).
+
+Question 6:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ shunu
+Gloss (with missing item): ___ today
+The English translation of this sentence is:‘I’ll pound it today.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The futurate interpretation of dynamic verbs in the present is illustrated in (\ref{bkm:Ref477186128}--\ref{bkm:Ref477186129}).
+A: word: ndi-uh-tw-á̲	 gloss: SM1SG-OM3-pound-FV
+B: word: ndi-shih-tw-á̲	 gloss: SM1SG-PER-pound-FV
+C: word: ndi-tw-á̲	 gloss: SM1SG-pound-FV
+D: word: ka-á̲-shih-ké̲ːzy-a	 gloss: PST.IPFV-SM1-PER-come-FV
+Please only return the letter (A–D).
+
+Question 7:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-N-mwikí í̲-ké̲ːzy-a ___
+Gloss (with missing item): AUG-NP9-week SM9.REL-come-FV ___
+The English translation of this sentence is:‘Next week, I’ll work.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The futurate interpretation of dynamic verbs in the present is illustrated in (\ref{bkm:Ref477186128}--\ref{bkm:Ref477186129}).
+A: word: ndi-sebez-á̲	 gloss: SM1SG-work-FV
+B: word: ka-ndi-sebez-á̲	 gloss: PST.IPFV-SM1SG-work-FV
+C: word: a-sebez-á̲	 gloss: SM1-work-FV
+D: word: mbo-ndí̲-buːhk-á̲ng-e	 gloss: NEAR.FUT-SM1SG-wake-HAB-PFV.SBJV
+Please only return the letter (A–D).
+
+Question 8:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ e-N-ŋombe zí-ngíː
+Gloss (with missing item): ___ AUG-NP10-cow PP10-many
+The English translation of this sentence is:‘I want to own many cattle.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Similar to their future interpretation, dynamic verbs in the present construction may also receive a modal interpretation, as in (\ref{bkm:Ref75249269}--\ref{bkm:Ref75249272}).
+A: word: ndi-mun-á̲	 gloss: SM1SG-own-FV
+B: word: ka-ndi-mu-zyih-í̲	 gloss: NEG-SM1SG-OM1-know.STAT-NEG
+C: word: ndi-buhtuk-á̲	 gloss: SM1SG-run-FV
+D: word: a-kwesi	 gloss: SM1-PROG
+Please only return the letter (A–D).
+
+Question 9:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-N-potó ___
+Gloss (with missing item): AUG-NP9-pot ___
+The English translation of this sentence is:‘A pot can/might break.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: I now turn to the interpretation of change-of-state verbs in the present construction. As shown in (\ref{bkm:Ref75248605}), the only possible interpretation of change-of-state verbs in the present is one that situates the nucleus after the time of speaking, i.e. a futurate or modal interpretation. More examples of this use of the present are given in (\ref{bkm:Ref441844899}--\ref{bkm:Ref75248624}).
+A: word: i-bbam-uk-á̲	 gloss: SM9-break-SEP.INTR-FV
+B: word: a-bah-zihmbauka-zimb-a-uk-á̲	 gloss: SM1-OM2-PL2-go_around-PL1-SEP.INTR-FV
+C: word: a-sebez-á̲	 gloss: SM1-work-FV
+D: word: ndi-sebez-á̲	 gloss: SM1SG-work-FV
+Please only return the letter (A–D).
+
+Question 10:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): o-shiH-ri-á̲ cáha ___
+Gloss (with missing item): SM2SG-COND-eat-FV very ___
+The English translation of this sentence is:‘When you eat too much, you become fat.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Linked to their modal interpretation in main clauses, change-of-state verbs in the present construction are also often used in the apodosis of a factual conditional, expressing an event that will come to pass if certain conditions are met, as in (\ref{bkm:Ref99094967}--\ref{bkm:Ref99094968}).
+A: word: o-nun-á̲	 gloss: SM2SG-become_fat-FV
+B: word: bá̲-nun-í̲te	 gloss: SM2.REL-become_fat-STAT
+C: word: o-shak-á̲	 gloss: SM2SG-like-FV
+D: word: ndi-mun-á̲	 gloss: SM1SG-own-FV
+Please only return the letter (A–D).
+
+Question 11:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu-N-júo a-iná ___ a-sanz-á̲ o-tu-súba
+Gloss (with missing item): NP18-NP9-house SM1-be_at ___ SM1-wash-FV AUG-NP13-dish
+The English translation of this sentence is:‘S/he is in the house, s/he is washing dishes.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the present progressive and aspectually unmarked present also relates to modality. With the present progressive, the speaker expresses certainty that the event is taking place at UT, but the aspectually unmarked present may leave more doubt about whether the action fully overlaps with UT. This contrast is illustrated in (\ref{bkm:Ref467676720}--\ref{bkm:Ref72239269}), which both answer the question: ‘Where is that person?’. In (\ref{bkm:Ref72239269}), the aspectually unmarked present is used to imply that the person is supposed to wash dishes, but may at this very moment be busy with something else. In (\ref{bkm:Ref467676720}), the use of a present progressive implies that the person referred to is currently, without a doubt, busy washing dishes.
+A: word: a-kwesi	 gloss: SM1-PROG
+B: word: ba-kwesi	 gloss: SM2-PROG
+C: word: ndi-kwesi	 gloss: SM1SG-PROG
+D: word: mú̲-kahnan-á̲	 gloss: SM2PL.REL-argue-FV
+Please only return the letter (A–D).
+
+Question 12:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu-N-júo a-iná a-kwesi ___ o-tu-súba
+Gloss (with missing item): NP18-NP9-house SM1-be_at SM1-PROG ___ AUG-NP13-dish
+The English translation of this sentence is:‘S/he is in the house, s/he is washing dishes.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the present progressive and aspectually unmarked present also relates to modality. With the present progressive, the speaker expresses certainty that the event is taking place at UT, but the aspectually unmarked present may leave more doubt about whether the action fully overlaps with UT. This contrast is illustrated in (\ref{bkm:Ref467676720}--\ref{bkm:Ref72239269}), which both answer the question: ‘Where is that person?’. In (\ref{bkm:Ref72239269}), the aspectually unmarked present is used to imply that the person is supposed to wash dishes, but may at this very moment be busy with something else. In (\ref{bkm:Ref467676720}), the use of a present progressive implies that the person referred to is currently, without a doubt, busy washing dishes.
+A: word: a-sanz-á̲	 gloss: SM1-wash-FV
+B: word: a-tuh-ba-sanz-ir-á̲	 gloss: SM1-OM13-OM2-wash-APPL-FV
+C: word: ndi-ka-zih-sá̲nz-a	 gloss: SM1SG-DIST-OM10-wash-FV
+D: word: mú̲-kahnan-á̲	 gloss: SM2PL.REL-argue-FV
+Please only return the letter (A–D).
+
+Question 13:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu-N-júo a-in-á ___ o-tu-súba
+Gloss (with missing item): NP18-NP9-house SM1-be_at-FV ___ AUG-NP13-dish
+The English translation of this sentence is:‘S/he is in the house, s/he is washing dishes.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the present progressive and aspectually unmarked present also relates to modality. With the present progressive, the speaker expresses certainty that the event is taking place at UT, but the aspectually unmarked present may leave more doubt about whether the action fully overlaps with UT. This contrast is illustrated in (\ref{bkm:Ref467676720}--\ref{bkm:Ref72239269}), which both answer the question: ‘Where is that person?’. In (\ref{bkm:Ref72239269}), the aspectually unmarked present is used to imply that the person is supposed to wash dishes, but may at this very moment be busy with something else. In (\ref{bkm:Ref467676720}), the use of a present progressive implies that the person referred to is currently, without a doubt, busy washing dishes.
+A: word: a-sanz-á̲	 gloss: SM1-wash-FV
+B: word: a-tuh-ba-sanz-ir-á̲	 gloss: SM1-OM13-OM2-wash-APPL-FV
+C: word: ndi-ka-zih-sá̲nz-a	 gloss: SM1SG-DIST-OM10-wash-FV
+D: word: ka-ndi-shwen-é̲te	 gloss: PST.IPFV-SM1SG-become_tired-STAT
+Please only return the letter (A–D).
+
+Question 14:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu-N-júo a-in-á ___ o-tu-súba
+Gloss (with missing item): NP18-NP9-house SM1-be_at-FV ___ AUG-NP13-dish
+The English translation of this sentence is:‘S/he is in the house, s/he is washing dishes.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the present progressive and aspectually unmarked present also relates to modality. With the present progressive, the speaker expresses certainty that the event is taking place at UT, but the aspectually unmarked present may leave more doubt about whether the action fully overlaps with UT. This contrast is illustrated in (\ref{bkm:Ref467676720}--\ref{bkm:Ref72239269}), which both answer the question: ‘Where is that person?’. In (\ref{bkm:Ref72239269}), the aspectually unmarked present is used to imply that the person is supposed to wash dishes, but may at this very moment be busy with something else. In (\ref{bkm:Ref467676720}), the use of a present progressive implies that the person referred to is currently, without a doubt, busy washing dishes.
+A: word: a-sanz-á̲	 gloss: SM1-wash-FV
+B: word: a-tuh-ba-sanz-ir-á̲	 gloss: SM1-OM13-OM2-wash-APPL-FV
+C: word: ndi-ka-zih-sá̲nz-a	 gloss: SM1SG-DIST-OM10-wash-FV
+D: word: i-bbam-uk-á̲	 gloss: SM\-9-break-SEP.INTR-FV
+Please only return the letter (A–D).
+
+Question 15:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu-N-júo a-iná ___ a-sanz-á̲ o-tu-súba
+Gloss (with missing item): NP18-NP9-house SM1-be_at ___ SM1-wash-FV AUG-NP13-dish
+The English translation of this sentence is:‘S/he is in the house, s/he is washing dishes.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the present progressive and aspectually unmarked present also relates to modality. With the present progressive, the speaker expresses certainty that the event is taking place at UT, but the aspectually unmarked present may leave more doubt about whether the action fully overlaps with UT. This contrast is illustrated in (\ref{bkm:Ref467676720}--\ref{bkm:Ref72239269}), which both answer the question: ‘Where is that person?’. In (\ref{bkm:Ref72239269}), the aspectually unmarked present is used to imply that the person is supposed to wash dishes, but may at this very moment be busy with something else. In (\ref{bkm:Ref467676720}), the use of a present progressive implies that the person referred to is currently, without a doubt, busy washing dishes.
+A: word: a-kwesi	 gloss: SM1-PROG
+B: word: ba-kwesi	 gloss: SM2-PROG
+C: word: ndi-kwesi	 gloss: SM1SG-PROG
+D: word: a-sanz-á̲	 gloss: SM1-wash-FV
+Please only return the letter (A–D).
+
+Question 16:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): mu-N-júo a-iná a-kwesi ___ o-tu-súba
+Gloss (with missing item): NP18-NP9-house SM1-be_at SM1-PROG ___ AUG-NP13-dish
+The English translation of this sentence is:‘S/he is in the house, s/he is washing dishes.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The difference between the present progressive and aspectually unmarked present also relates to modality. With the present progressive, the speaker expresses certainty that the event is taking place at UT, but the aspectually unmarked present may leave more doubt about whether the action fully overlaps with UT. This contrast is illustrated in (\ref{bkm:Ref467676720}--\ref{bkm:Ref72239269}), which both answer the question: ‘Where is that person?’. In (\ref{bkm:Ref72239269}), the aspectually unmarked present is used to imply that the person is supposed to wash dishes, but may at this very moment be busy with something else. In (\ref{bkm:Ref467676720}), the use of a present progressive implies that the person referred to is currently, without a doubt, busy washing dishes.
+A: word: a-sanz-á̲	 gloss: SM1-wash-FV
+B: word: a-tuh-ba-sanz-ir-á̲	 gloss: SM1-OM13-OM2-wash-APPL-FV
+C: word: ndi-ka-zih-sá̲nz-a	 gloss: SM1SG-DIST-OM10-wash-FV
+D: word: o-nun-á̲	 gloss: SM2SG-become_fat-FV
+Please only return the letter (A–D).
+
+Question 17:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): zyóna ___
+Gloss (with missing item): yesterday ___
+The English translation of this sentence is:‘Yesterday, \textstyleunderlinedChar{I was tired}.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RPI may co-occur with markers that indicate a type of imperfective aspect, such as the stative in (\ref{bkm:Ref99970756}), the habitual -ang in (\ref{bkm:Ref99970757}), the progressive-marking fronted-infinitive construction in (\ref{bkm:Ref99970759}), the progressive auxiliary kwesi in (\ref{bkm:Ref99970760}), and the persistive shí- in (\ref{bkm:Ref99970761}).
+A: word: ka-ndi-shwen-é̲te	 gloss: PST.IPFV-SM1SG-become_tired-STAT
+B: word: ka-ndi-shih-ní	 gloss: NEG-SM1SG-PER-be
+C: word: ka-ndí̲-rwahr-í̲te	 gloss: PST.IPFV-SM1SG-become_sick-STAT
+D: word: ndi-uh-tw-á̲	 gloss: SM1SG-OM3-pound-FV
+Please only return the letter (A–D).
+
+Question 18:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): ___ mu-ru-shará ru-angú
+Gloss (with missing item): ___ NP18-NP11-back PP11-POSS1SG
+The English translation of this sentence is:‘He was still coming behind me.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: The RPI may co-occur with markers that indicate a type of imperfective aspect, such as the stative in (\ref{bkm:Ref99970756}), the habitual -ang in (\ref{bkm:Ref99970757}), the progressive-marking fronted-infinitive construction in (\ref{bkm:Ref99970759}), the progressive auxiliary kwesi in (\ref{bkm:Ref99970760}), and the persistive shí- in (\ref{bkm:Ref99970761}).
+A: word: ka-á̲-shih-ké̲ːzy-a	 gloss: PST.IPFV-SM1-PER-come-FV
+B: word: bá̲-ké̲ːzy-a	 gloss: SM2.REL-come-FV
+C: word: ka-á̲-é̲nd-a	 gloss: PST.IPFV-SM1-go-FV
+D: word: o-nun-á̲	 gloss: SM2SG-become_fat-FV
+Please only return the letter (A–D).
+
+Question 19:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): e-inó N-súnda ___ ka-éti
+Gloss (with missing item): AUG-DEM.II9 NP9-week ___ ADV-eight
+The English translation of this sentence is:‘This week, I will wake up at eight.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: In Zambian Fwe, a near future habitual can be expressed by combining the near future perfective with the habitual suffix -ang, as in (\ref{bkm:Ref492310019}). In Namibian Fwe the expression of a near future habitual always requires the near future prefix áku-, as in (\ref{bkm:Ref492309983}).
+A: word: mbo-ndí̲-buːhk-á̲ng-e	 gloss: NEAR.FUT-SM1SG-wake-HAB-PFV.SBJV
+B: word: ndí̲-buːhk-á̲ng-a	 gloss: SM1SG.REL-wake-HAB-FV
+C: word: ne-mú̲-bú̲ːk-e	 gloss: REM-SM2PL-wake-PFV.SBJV
+D: word: ka-á̲-shih-ké̲ːzy-a	 gloss: PST.IPFV-SM1-PER-come-FV
+Please only return the letter (A–D).
+
+Question 20:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. However, a word and its gloss are missing and represented by an underscore. Based on your understanding, please choose the most appropriate option. 
+Sentence (with missing item): na-ásham-i ___ ku-zyímb-a
+Gloss (with missing item): SM1.PST-open_mouth-NPST.PFV ___ INF-sing-FV
+The English translation of this sentence is:‘She opens her mouth and starts to sing.’
+Here is a relevant knowledge point for this example, with the related morphemes and glosses masked: Instead of the connective clitic, consecutives may also take a comitative clitic no- (see also \sectref{bkm:Ref486270340} on comitatives), as in (\ref{bkm:Ref492133792}).
+A: word: no=ku-káris-a	 gloss: COM=INF-start-FV
+B: word: o-ku-kárim-a	 gloss: AUG-INF-borrow-FV
+C: word: ku-ǀopor-a	 gloss: INF-run-FV
+D: word: tu-ri-á̲	 gloss: SM1PL-eat-FV
+Please only return the letter (A–D).
+

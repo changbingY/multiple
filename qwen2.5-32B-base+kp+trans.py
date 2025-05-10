@@ -73,4 +73,4 @@ for root, _, files in os.walk(input_root):
                     generated_ids = [output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)]
                     response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
                     print("Model response:\n", response)
-                    f_out.write('Qwen2.5-7B result: ' + response + '\n')
+                    f_out.write('Qwen2.5-32B result: ' + response + '\n')

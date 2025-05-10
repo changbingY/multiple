@@ -4,8 +4,8 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Define input and output paths
-input_root = "/home/haoban/work/gloss_multitask/LLM_grammar/multiple/"
-output_root = "/home/haoban/work/gloss_multitask/LLM_grammar/qwen2.5-7b-result+kp+trans/"
+input_root = "multiple/"
+output_root = "qwen2.5-7b-result+kp+trans/"
 
 # Make sure output root exists
 os.makedirs(output_root, exist_ok=True)

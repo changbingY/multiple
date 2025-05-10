@@ -5,7 +5,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Define input and output paths
 input_root = "multiple/"
-output_root = "qwen2.5-7b-result+kp+trans/"
+output_root = "qwen2.5-32b-result+kp/"
 
 # Make sure output root exists
 os.makedirs(output_root, exist_ok=True)
@@ -17,10 +17,13 @@ languages = {
     "Rapa_Nui", "Tuatschin", "Ulwa", "Vamale", "Yauyos_Quecha"
 }
 
-# Load the model and tokenizer
-model_name = "Qwen/Qwen2.5-7B-Instruct"
-model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype="auto", device_map="auto")
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+
+# Load model directly
+
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Coder-32B-Instruct")
+model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Coder-32B-Instruct")
+
 
 # Helper: extract language from file path
 def extract_language(filepath):
@@ -57,7 +60,7 @@ for root, _, files in os.walk(input_root):
                     f_out.write(line)
                     prompt = (
                         lines[idx+1] + lines[idx+2] + lines[idx+3] +
-                        lines[idx+4]+  lines[idx+5]
+                         lines[idx+5]
                         +lines[idx+6] + lines[idx+7] + lines[idx+8] +
                         lines[idx+9] + lines[idx+10]
                     )
@@ -70,5 +73,4 @@ for root, _, files in os.walk(input_root):
                     generated_ids = [output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)]
                     response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
                     print("Model response:\n", response)
-                    f_out.write('Qwen2.5-7B result: ' + response + '\n')
-
+                    f_out.write('Qwen2.5-32B result: ' + response + '\n\n')
